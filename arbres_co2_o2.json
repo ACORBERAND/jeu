@@ -1,0 +1,4608 @@
+{
+    "chene": [
+        {
+            "ann\u00e9e": 1,
+            "CO2_absorb\u00e9_kg": 9.7,
+            "O2_\u00e9mis_kg": 3.21
+        },
+        {
+            "ann\u00e9e": 2,
+            "CO2_absorb\u00e9_kg": 9.01,
+            "O2_\u00e9mis_kg": 1.33
+        },
+        {
+            "ann\u00e9e": 3,
+            "CO2_absorb\u00e9_kg": 8.72,
+            "O2_\u00e9mis_kg": 1.51
+        },
+        {
+            "ann\u00e9e": 4,
+            "CO2_absorb\u00e9_kg": 9.14,
+            "O2_\u00e9mis_kg": 3.91
+        },
+        {
+            "ann\u00e9e": 5,
+            "CO2_absorb\u00e9_kg": 2.19,
+            "O2_\u00e9mis_kg": 1.11
+        },
+        {
+            "ann\u00e9e": 6,
+            "CO2_absorb\u00e9_kg": 6.81,
+            "O2_\u00e9mis_kg": 1.72
+        },
+        {
+            "ann\u00e9e": 7,
+            "CO2_absorb\u00e9_kg": 6.23,
+            "O2_\u00e9mis_kg": 6.9
+        },
+        {
+            "ann\u00e9e": 8,
+            "CO2_absorb\u00e9_kg": 4.08,
+            "O2_\u00e9mis_kg": 5.12
+        },
+        {
+            "ann\u00e9e": 9,
+            "CO2_absorb\u00e9_kg": 7.92,
+            "O2_\u00e9mis_kg": 5.39
+        },
+        {
+            "ann\u00e9e": 10,
+            "CO2_absorb\u00e9_kg": 6.67,
+            "O2_\u00e9mis_kg": 3.37
+        },
+        {
+            "ann\u00e9e": 11,
+            "CO2_absorb\u00e9_kg": 21.75,
+            "O2_\u00e9mis_kg": 14.27
+        },
+        {
+            "ann\u00e9e": 12,
+            "CO2_absorb\u00e9_kg": 10.46,
+            "O2_\u00e9mis_kg": 8.9
+        },
+        {
+            "ann\u00e9e": 13,
+            "CO2_absorb\u00e9_kg": 13.53,
+            "O2_\u00e9mis_kg": 13.85
+        },
+        {
+            "ann\u00e9e": 14,
+            "CO2_absorb\u00e9_kg": 14.99,
+            "O2_\u00e9mis_kg": 8.78
+        },
+        {
+            "ann\u00e9e": 15,
+            "CO2_absorb\u00e9_kg": 12.05,
+            "O2_\u00e9mis_kg": 8.9
+        },
+        {
+            "ann\u00e9e": 16,
+            "CO2_absorb\u00e9_kg": 11.11,
+            "O2_\u00e9mis_kg": 8.98
+        },
+        {
+            "ann\u00e9e": 17,
+            "CO2_absorb\u00e9_kg": 15.74,
+            "O2_\u00e9mis_kg": 10.84
+        },
+        {
+            "ann\u00e9e": 18,
+            "CO2_absorb\u00e9_kg": 15.1,
+            "O2_\u00e9mis_kg": 12.1
+        },
+        {
+            "ann\u00e9e": 19,
+            "CO2_absorb\u00e9_kg": 11.23,
+            "O2_\u00e9mis_kg": 7.03
+        },
+        {
+            "ann\u00e9e": 20,
+            "CO2_absorb\u00e9_kg": 20.59,
+            "O2_\u00e9mis_kg": 13.84
+        },
+        {
+            "ann\u00e9e": 21,
+            "CO2_absorb\u00e9_kg": 22.95,
+            "O2_\u00e9mis_kg": 11.11
+        },
+        {
+            "ann\u00e9e": 22,
+            "CO2_absorb\u00e9_kg": 21.52,
+            "O2_\u00e9mis_kg": 8.9
+        },
+        {
+            "ann\u00e9e": 23,
+            "CO2_absorb\u00e9_kg": 19.41,
+            "O2_\u00e9mis_kg": 12.82
+        },
+        {
+            "ann\u00e9e": 24,
+            "CO2_absorb\u00e9_kg": 18.23,
+            "O2_\u00e9mis_kg": 11.61
+        },
+        {
+            "ann\u00e9e": 25,
+            "CO2_absorb\u00e9_kg": 20.74,
+            "O2_\u00e9mis_kg": 9.83
+        },
+        {
+            "ann\u00e9e": 26,
+            "CO2_absorb\u00e9_kg": 10.95,
+            "O2_\u00e9mis_kg": 8.22
+        },
+        {
+            "ann\u00e9e": 27,
+            "CO2_absorb\u00e9_kg": 18.69,
+            "O2_\u00e9mis_kg": 9.34
+        },
+        {
+            "ann\u00e9e": 28,
+            "CO2_absorb\u00e9_kg": 22.94,
+            "O2_\u00e9mis_kg": 8.65
+        },
+        {
+            "ann\u00e9e": 29,
+            "CO2_absorb\u00e9_kg": 15.16,
+            "O2_\u00e9mis_kg": 9.25
+        },
+        {
+            "ann\u00e9e": 30,
+            "CO2_absorb\u00e9_kg": 12.08,
+            "O2_\u00e9mis_kg": 8.93
+        },
+        {
+            "ann\u00e9e": 31,
+            "CO2_absorb\u00e9_kg": 21.05,
+            "O2_\u00e9mis_kg": 14.03
+        },
+        {
+            "ann\u00e9e": 32,
+            "CO2_absorb\u00e9_kg": 17.1,
+            "O2_\u00e9mis_kg": 10.94
+        },
+        {
+            "ann\u00e9e": 33,
+            "CO2_absorb\u00e9_kg": 19.21,
+            "O2_\u00e9mis_kg": 11.05
+        },
+        {
+            "ann\u00e9e": 34,
+            "CO2_absorb\u00e9_kg": 18.4,
+            "O2_\u00e9mis_kg": 9.35
+        },
+        {
+            "ann\u00e9e": 35,
+            "CO2_absorb\u00e9_kg": 22.04,
+            "O2_\u00e9mis_kg": 14.42
+        },
+        {
+            "ann\u00e9e": 36,
+            "CO2_absorb\u00e9_kg": 17.37,
+            "O2_\u00e9mis_kg": 7.17
+        },
+        {
+            "ann\u00e9e": 37,
+            "CO2_absorb\u00e9_kg": 14.23,
+            "O2_\u00e9mis_kg": 11.46
+        },
+        {
+            "ann\u00e9e": 38,
+            "CO2_absorb\u00e9_kg": 19.55,
+            "O2_\u00e9mis_kg": 11.91
+        },
+        {
+            "ann\u00e9e": 39,
+            "CO2_absorb\u00e9_kg": 20.14,
+            "O2_\u00e9mis_kg": 9.94
+        },
+        {
+            "ann\u00e9e": 40,
+            "CO2_absorb\u00e9_kg": 13.0,
+            "O2_\u00e9mis_kg": 8.45
+        },
+        {
+            "ann\u00e9e": 41,
+            "CO2_absorb\u00e9_kg": 18.81,
+            "O2_\u00e9mis_kg": 13.46
+        },
+        {
+            "ann\u00e9e": 42,
+            "CO2_absorb\u00e9_kg": 22.68,
+            "O2_\u00e9mis_kg": 12.62
+        },
+        {
+            "ann\u00e9e": 43,
+            "CO2_absorb\u00e9_kg": 12.13,
+            "O2_\u00e9mis_kg": 7.95
+        },
+        {
+            "ann\u00e9e": 44,
+            "CO2_absorb\u00e9_kg": 17.38,
+            "O2_\u00e9mis_kg": 13.62
+        },
+        {
+            "ann\u00e9e": 45,
+            "CO2_absorb\u00e9_kg": 17.55,
+            "O2_\u00e9mis_kg": 13.81
+        },
+        {
+            "ann\u00e9e": 46,
+            "CO2_absorb\u00e9_kg": 18.71,
+            "O2_\u00e9mis_kg": 9.66
+        },
+        {
+            "ann\u00e9e": 47,
+            "CO2_absorb\u00e9_kg": 15.44,
+            "O2_\u00e9mis_kg": 10.45
+        },
+        {
+            "ann\u00e9e": 48,
+            "CO2_absorb\u00e9_kg": 13.04,
+            "O2_\u00e9mis_kg": 8.1
+        },
+        {
+            "ann\u00e9e": 49,
+            "CO2_absorb\u00e9_kg": 10.85,
+            "O2_\u00e9mis_kg": 12.73
+        },
+        {
+            "ann\u00e9e": 50,
+            "CO2_absorb\u00e9_kg": 16.54,
+            "O2_\u00e9mis_kg": 10.76
+        },
+        {
+            "ann\u00e9e": 51,
+            "CO2_absorb\u00e9_kg": 37.08,
+            "O2_\u00e9mis_kg": 17.15
+        },
+        {
+            "ann\u00e9e": 52,
+            "CO2_absorb\u00e9_kg": 33.65,
+            "O2_\u00e9mis_kg": 21.61
+        },
+        {
+            "ann\u00e9e": 53,
+            "CO2_absorb\u00e9_kg": 32.39,
+            "O2_\u00e9mis_kg": 19.45
+        },
+        {
+            "ann\u00e9e": 54,
+            "CO2_absorb\u00e9_kg": 25.72,
+            "O2_\u00e9mis_kg": 15.79
+        },
+        {
+            "ann\u00e9e": 55,
+            "CO2_absorb\u00e9_kg": 38.06,
+            "O2_\u00e9mis_kg": 19.44
+        },
+        {
+            "ann\u00e9e": 56,
+            "CO2_absorb\u00e9_kg": 29.35,
+            "O2_\u00e9mis_kg": 20.1
+        },
+        {
+            "ann\u00e9e": 57,
+            "CO2_absorb\u00e9_kg": 28.77,
+            "O2_\u00e9mis_kg": 19.56
+        },
+        {
+            "ann\u00e9e": 58,
+            "CO2_absorb\u00e9_kg": 32.98,
+            "O2_\u00e9mis_kg": 15.08
+        },
+        {
+            "ann\u00e9e": 59,
+            "CO2_absorb\u00e9_kg": 31.82,
+            "O2_\u00e9mis_kg": 17.56
+        },
+        {
+            "ann\u00e9e": 60,
+            "CO2_absorb\u00e9_kg": 37.0,
+            "O2_\u00e9mis_kg": 16.92
+        },
+        {
+            "ann\u00e9e": 61,
+            "CO2_absorb\u00e9_kg": 34.06,
+            "O2_\u00e9mis_kg": 19.49
+        },
+        {
+            "ann\u00e9e": 62,
+            "CO2_absorb\u00e9_kg": 31.14,
+            "O2_\u00e9mis_kg": 22.28
+        },
+        {
+            "ann\u00e9e": 63,
+            "CO2_absorb\u00e9_kg": 32.56,
+            "O2_\u00e9mis_kg": 16.74
+        },
+        {
+            "ann\u00e9e": 64,
+            "CO2_absorb\u00e9_kg": 32.28,
+            "O2_\u00e9mis_kg": 18.2
+        },
+        {
+            "ann\u00e9e": 65,
+            "CO2_absorb\u00e9_kg": 31.14,
+            "O2_\u00e9mis_kg": 17.63
+        },
+        {
+            "ann\u00e9e": 66,
+            "CO2_absorb\u00e9_kg": 36.9,
+            "O2_\u00e9mis_kg": 17.74
+        },
+        {
+            "ann\u00e9e": 67,
+            "CO2_absorb\u00e9_kg": 27.52,
+            "O2_\u00e9mis_kg": 19.39
+        },
+        {
+            "ann\u00e9e": 68,
+            "CO2_absorb\u00e9_kg": 32.2,
+            "O2_\u00e9mis_kg": 16.68
+        },
+        {
+            "ann\u00e9e": 69,
+            "CO2_absorb\u00e9_kg": 32.97,
+            "O2_\u00e9mis_kg": 22.82
+        },
+        {
+            "ann\u00e9e": 70,
+            "CO2_absorb\u00e9_kg": 27.76,
+            "O2_\u00e9mis_kg": 16.84
+        },
+        {
+            "ann\u00e9e": 71,
+            "CO2_absorb\u00e9_kg": 28.67,
+            "O2_\u00e9mis_kg": 24.83
+        },
+        {
+            "ann\u00e9e": 72,
+            "CO2_absorb\u00e9_kg": 27.65,
+            "O2_\u00e9mis_kg": 24.49
+        },
+        {
+            "ann\u00e9e": 73,
+            "CO2_absorb\u00e9_kg": 26.7,
+            "O2_\u00e9mis_kg": 16.23
+        },
+        {
+            "ann\u00e9e": 74,
+            "CO2_absorb\u00e9_kg": 36.42,
+            "O2_\u00e9mis_kg": 16.79
+        },
+        {
+            "ann\u00e9e": 75,
+            "CO2_absorb\u00e9_kg": 38.61,
+            "O2_\u00e9mis_kg": 24.11
+        },
+        {
+            "ann\u00e9e": 76,
+            "CO2_absorb\u00e9_kg": 26.92,
+            "O2_\u00e9mis_kg": 16.68
+        },
+        {
+            "ann\u00e9e": 77,
+            "CO2_absorb\u00e9_kg": 39.32,
+            "O2_\u00e9mis_kg": 21.17
+        },
+        {
+            "ann\u00e9e": 78,
+            "CO2_absorb\u00e9_kg": 33.74,
+            "O2_\u00e9mis_kg": 21.2
+        },
+        {
+            "ann\u00e9e": 79,
+            "CO2_absorb\u00e9_kg": 36.66,
+            "O2_\u00e9mis_kg": 24.55
+        },
+        {
+            "ann\u00e9e": 80,
+            "CO2_absorb\u00e9_kg": 37.73,
+            "O2_\u00e9mis_kg": 16.94
+        },
+        {
+            "ann\u00e9e": 81,
+            "CO2_absorb\u00e9_kg": 37.25,
+            "O2_\u00e9mis_kg": 22.46
+        },
+        {
+            "ann\u00e9e": 82,
+            "CO2_absorb\u00e9_kg": 25.84,
+            "O2_\u00e9mis_kg": 16.57
+        },
+        {
+            "ann\u00e9e": 83,
+            "CO2_absorb\u00e9_kg": 35.14,
+            "O2_\u00e9mis_kg": 17.55
+        },
+        {
+            "ann\u00e9e": 84,
+            "CO2_absorb\u00e9_kg": 28.47,
+            "O2_\u00e9mis_kg": 15.72
+        },
+        {
+            "ann\u00e9e": 85,
+            "CO2_absorb\u00e9_kg": 37.78,
+            "O2_\u00e9mis_kg": 22.69
+        },
+        {
+            "ann\u00e9e": 86,
+            "CO2_absorb\u00e9_kg": 28.53,
+            "O2_\u00e9mis_kg": 24.02
+        },
+        {
+            "ann\u00e9e": 87,
+            "CO2_absorb\u00e9_kg": 28.74,
+            "O2_\u00e9mis_kg": 16.87
+        },
+        {
+            "ann\u00e9e": 88,
+            "CO2_absorb\u00e9_kg": 27.09,
+            "O2_\u00e9mis_kg": 17.72
+        },
+        {
+            "ann\u00e9e": 89,
+            "CO2_absorb\u00e9_kg": 30.87,
+            "O2_\u00e9mis_kg": 16.72
+        },
+        {
+            "ann\u00e9e": 90,
+            "CO2_absorb\u00e9_kg": 39.13,
+            "O2_\u00e9mis_kg": 19.08
+        },
+        {
+            "ann\u00e9e": 91,
+            "CO2_absorb\u00e9_kg": 33.48,
+            "O2_\u00e9mis_kg": 19.65
+        },
+        {
+            "ann\u00e9e": 92,
+            "CO2_absorb\u00e9_kg": 25.21,
+            "O2_\u00e9mis_kg": 24.36
+        },
+        {
+            "ann\u00e9e": 93,
+            "CO2_absorb\u00e9_kg": 26.59,
+            "O2_\u00e9mis_kg": 21.51
+        },
+        {
+            "ann\u00e9e": 94,
+            "CO2_absorb\u00e9_kg": 28.52,
+            "O2_\u00e9mis_kg": 22.43
+        },
+        {
+            "ann\u00e9e": 95,
+            "CO2_absorb\u00e9_kg": 34.67,
+            "O2_\u00e9mis_kg": 15.5
+        },
+        {
+            "ann\u00e9e": 96,
+            "CO2_absorb\u00e9_kg": 28.63,
+            "O2_\u00e9mis_kg": 17.17
+        },
+        {
+            "ann\u00e9e": 97,
+            "CO2_absorb\u00e9_kg": 33.09,
+            "O2_\u00e9mis_kg": 21.41
+        },
+        {
+            "ann\u00e9e": 98,
+            "CO2_absorb\u00e9_kg": 26.21,
+            "O2_\u00e9mis_kg": 16.8
+        },
+        {
+            "ann\u00e9e": 99,
+            "CO2_absorb\u00e9_kg": 35.52,
+            "O2_\u00e9mis_kg": 24.73
+        },
+        {
+            "ann\u00e9e": 100,
+            "CO2_absorb\u00e9_kg": 37.74,
+            "O2_\u00e9mis_kg": 23.76
+        },
+        {
+            "ann\u00e9e": 101,
+            "CO2_absorb\u00e9_kg": 27.59,
+            "O2_\u00e9mis_kg": 21.59
+        },
+        {
+            "ann\u00e9e": 102,
+            "CO2_absorb\u00e9_kg": 30.58,
+            "O2_\u00e9mis_kg": 18.57
+        },
+        {
+            "ann\u00e9e": 103,
+            "CO2_absorb\u00e9_kg": 37.01,
+            "O2_\u00e9mis_kg": 24.85
+        },
+        {
+            "ann\u00e9e": 104,
+            "CO2_absorb\u00e9_kg": 39.03,
+            "O2_\u00e9mis_kg": 16.93
+        },
+        {
+            "ann\u00e9e": 105,
+            "CO2_absorb\u00e9_kg": 38.33,
+            "O2_\u00e9mis_kg": 15.7
+        },
+        {
+            "ann\u00e9e": 106,
+            "CO2_absorb\u00e9_kg": 38.02,
+            "O2_\u00e9mis_kg": 17.67
+        },
+        {
+            "ann\u00e9e": 107,
+            "CO2_absorb\u00e9_kg": 25.28,
+            "O2_\u00e9mis_kg": 23.75
+        },
+        {
+            "ann\u00e9e": 108,
+            "CO2_absorb\u00e9_kg": 27.35,
+            "O2_\u00e9mis_kg": 17.27
+        },
+        {
+            "ann\u00e9e": 109,
+            "CO2_absorb\u00e9_kg": 33.62,
+            "O2_\u00e9mis_kg": 24.65
+        },
+        {
+            "ann\u00e9e": 110,
+            "CO2_absorb\u00e9_kg": 29.51,
+            "O2_\u00e9mis_kg": 16.89
+        },
+        {
+            "ann\u00e9e": 111,
+            "CO2_absorb\u00e9_kg": 29.04,
+            "O2_\u00e9mis_kg": 22.65
+        },
+        {
+            "ann\u00e9e": 112,
+            "CO2_absorb\u00e9_kg": 30.41,
+            "O2_\u00e9mis_kg": 16.22
+        },
+        {
+            "ann\u00e9e": 113,
+            "CO2_absorb\u00e9_kg": 38.2,
+            "O2_\u00e9mis_kg": 19.55
+        },
+        {
+            "ann\u00e9e": 114,
+            "CO2_absorb\u00e9_kg": 38.88,
+            "O2_\u00e9mis_kg": 16.24
+        },
+        {
+            "ann\u00e9e": 115,
+            "CO2_absorb\u00e9_kg": 39.83,
+            "O2_\u00e9mis_kg": 24.07
+        },
+        {
+            "ann\u00e9e": 116,
+            "CO2_absorb\u00e9_kg": 39.24,
+            "O2_\u00e9mis_kg": 21.92
+        },
+        {
+            "ann\u00e9e": 117,
+            "CO2_absorb\u00e9_kg": 33.85,
+            "O2_\u00e9mis_kg": 24.46
+        },
+        {
+            "ann\u00e9e": 118,
+            "CO2_absorb\u00e9_kg": 25.06,
+            "O2_\u00e9mis_kg": 16.75
+        },
+        {
+            "ann\u00e9e": 119,
+            "CO2_absorb\u00e9_kg": 28.95,
+            "O2_\u00e9mis_kg": 23.94
+        },
+        {
+            "ann\u00e9e": 120,
+            "CO2_absorb\u00e9_kg": 30.06,
+            "O2_\u00e9mis_kg": 20.45
+        },
+        {
+            "ann\u00e9e": 121,
+            "CO2_absorb\u00e9_kg": 25.49,
+            "O2_\u00e9mis_kg": 22.57
+        },
+        {
+            "ann\u00e9e": 122,
+            "CO2_absorb\u00e9_kg": 32.7,
+            "O2_\u00e9mis_kg": 17.2
+        },
+        {
+            "ann\u00e9e": 123,
+            "CO2_absorb\u00e9_kg": 30.27,
+            "O2_\u00e9mis_kg": 23.76
+        },
+        {
+            "ann\u00e9e": 124,
+            "CO2_absorb\u00e9_kg": 37.21,
+            "O2_\u00e9mis_kg": 21.75
+        },
+        {
+            "ann\u00e9e": 125,
+            "CO2_absorb\u00e9_kg": 27.14,
+            "O2_\u00e9mis_kg": 23.69
+        },
+        {
+            "ann\u00e9e": 126,
+            "CO2_absorb\u00e9_kg": 37.62,
+            "O2_\u00e9mis_kg": 19.2
+        },
+        {
+            "ann\u00e9e": 127,
+            "CO2_absorb\u00e9_kg": 33.34,
+            "O2_\u00e9mis_kg": 16.28
+        },
+        {
+            "ann\u00e9e": 128,
+            "CO2_absorb\u00e9_kg": 39.59,
+            "O2_\u00e9mis_kg": 24.11
+        },
+        {
+            "ann\u00e9e": 129,
+            "CO2_absorb\u00e9_kg": 25.83,
+            "O2_\u00e9mis_kg": 19.36
+        },
+        {
+            "ann\u00e9e": 130,
+            "CO2_absorb\u00e9_kg": 35.24,
+            "O2_\u00e9mis_kg": 23.42
+        },
+        {
+            "ann\u00e9e": 131,
+            "CO2_absorb\u00e9_kg": 27.2,
+            "O2_\u00e9mis_kg": 22.42
+        },
+        {
+            "ann\u00e9e": 132,
+            "CO2_absorb\u00e9_kg": 32.51,
+            "O2_\u00e9mis_kg": 23.83
+        },
+        {
+            "ann\u00e9e": 133,
+            "CO2_absorb\u00e9_kg": 27.71,
+            "O2_\u00e9mis_kg": 23.48
+        },
+        {
+            "ann\u00e9e": 134,
+            "CO2_absorb\u00e9_kg": 25.89,
+            "O2_\u00e9mis_kg": 24.71
+        },
+        {
+            "ann\u00e9e": 135,
+            "CO2_absorb\u00e9_kg": 30.83,
+            "O2_\u00e9mis_kg": 15.08
+        },
+        {
+            "ann\u00e9e": 136,
+            "CO2_absorb\u00e9_kg": 35.52,
+            "O2_\u00e9mis_kg": 23.23
+        },
+        {
+            "ann\u00e9e": 137,
+            "CO2_absorb\u00e9_kg": 31.42,
+            "O2_\u00e9mis_kg": 19.19
+        },
+        {
+            "ann\u00e9e": 138,
+            "CO2_absorb\u00e9_kg": 31.32,
+            "O2_\u00e9mis_kg": 15.98
+        },
+        {
+            "ann\u00e9e": 139,
+            "CO2_absorb\u00e9_kg": 33.03,
+            "O2_\u00e9mis_kg": 24.55
+        },
+        {
+            "ann\u00e9e": 140,
+            "CO2_absorb\u00e9_kg": 28.11,
+            "O2_\u00e9mis_kg": 19.68
+        },
+        {
+            "ann\u00e9e": 141,
+            "CO2_absorb\u00e9_kg": 30.7,
+            "O2_\u00e9mis_kg": 19.94
+        },
+        {
+            "ann\u00e9e": 142,
+            "CO2_absorb\u00e9_kg": 26.16,
+            "O2_\u00e9mis_kg": 15.5
+        },
+        {
+            "ann\u00e9e": 143,
+            "CO2_absorb\u00e9_kg": 28.5,
+            "O2_\u00e9mis_kg": 15.64
+        },
+        {
+            "ann\u00e9e": 144,
+            "CO2_absorb\u00e9_kg": 38.0,
+            "O2_\u00e9mis_kg": 20.42
+        },
+        {
+            "ann\u00e9e": 145,
+            "CO2_absorb\u00e9_kg": 33.97,
+            "O2_\u00e9mis_kg": 20.41
+        },
+        {
+            "ann\u00e9e": 146,
+            "CO2_absorb\u00e9_kg": 25.88,
+            "O2_\u00e9mis_kg": 21.9
+        },
+        {
+            "ann\u00e9e": 147,
+            "CO2_absorb\u00e9_kg": 27.43,
+            "O2_\u00e9mis_kg": 19.43
+        },
+        {
+            "ann\u00e9e": 148,
+            "CO2_absorb\u00e9_kg": 33.96,
+            "O2_\u00e9mis_kg": 17.25
+        },
+        {
+            "ann\u00e9e": 149,
+            "CO2_absorb\u00e9_kg": 29.88,
+            "O2_\u00e9mis_kg": 19.83
+        },
+        {
+            "ann\u00e9e": 150,
+            "CO2_absorb\u00e9_kg": 30.11,
+            "O2_\u00e9mis_kg": 20.47
+        },
+        {
+            "ann\u00e9e": 151,
+            "CO2_absorb\u00e9_kg": 30.33,
+            "O2_\u00e9mis_kg": 21.44
+        },
+        {
+            "ann\u00e9e": 152,
+            "CO2_absorb\u00e9_kg": 31.84,
+            "O2_\u00e9mis_kg": 16.99
+        },
+        {
+            "ann\u00e9e": 153,
+            "CO2_absorb\u00e9_kg": 39.66,
+            "O2_\u00e9mis_kg": 17.55
+        },
+        {
+            "ann\u00e9e": 154,
+            "CO2_absorb\u00e9_kg": 33.56,
+            "O2_\u00e9mis_kg": 19.15
+        },
+        {
+            "ann\u00e9e": 155,
+            "CO2_absorb\u00e9_kg": 26.17,
+            "O2_\u00e9mis_kg": 21.24
+        },
+        {
+            "ann\u00e9e": 156,
+            "CO2_absorb\u00e9_kg": 25.56,
+            "O2_\u00e9mis_kg": 22.82
+        },
+        {
+            "ann\u00e9e": 157,
+            "CO2_absorb\u00e9_kg": 26.7,
+            "O2_\u00e9mis_kg": 21.93
+        },
+        {
+            "ann\u00e9e": 158,
+            "CO2_absorb\u00e9_kg": 30.91,
+            "O2_\u00e9mis_kg": 15.15
+        },
+        {
+            "ann\u00e9e": 159,
+            "CO2_absorb\u00e9_kg": 25.18,
+            "O2_\u00e9mis_kg": 16.74
+        },
+        {
+            "ann\u00e9e": 160,
+            "CO2_absorb\u00e9_kg": 26.39,
+            "O2_\u00e9mis_kg": 17.96
+        },
+        {
+            "ann\u00e9e": 161,
+            "CO2_absorb\u00e9_kg": 31.33,
+            "O2_\u00e9mis_kg": 22.71
+        },
+        {
+            "ann\u00e9e": 162,
+            "CO2_absorb\u00e9_kg": 32.45,
+            "O2_\u00e9mis_kg": 15.73
+        },
+        {
+            "ann\u00e9e": 163,
+            "CO2_absorb\u00e9_kg": 33.07,
+            "O2_\u00e9mis_kg": 15.19
+        },
+        {
+            "ann\u00e9e": 164,
+            "CO2_absorb\u00e9_kg": 37.0,
+            "O2_\u00e9mis_kg": 23.92
+        },
+        {
+            "ann\u00e9e": 165,
+            "CO2_absorb\u00e9_kg": 25.23,
+            "O2_\u00e9mis_kg": 18.62
+        },
+        {
+            "ann\u00e9e": 166,
+            "CO2_absorb\u00e9_kg": 36.68,
+            "O2_\u00e9mis_kg": 23.33
+        },
+        {
+            "ann\u00e9e": 167,
+            "CO2_absorb\u00e9_kg": 34.22,
+            "O2_\u00e9mis_kg": 22.12
+        },
+        {
+            "ann\u00e9e": 168,
+            "CO2_absorb\u00e9_kg": 37.08,
+            "O2_\u00e9mis_kg": 15.79
+        },
+        {
+            "ann\u00e9e": 169,
+            "CO2_absorb\u00e9_kg": 25.71,
+            "O2_\u00e9mis_kg": 22.67
+        },
+        {
+            "ann\u00e9e": 170,
+            "CO2_absorb\u00e9_kg": 32.8,
+            "O2_\u00e9mis_kg": 15.23
+        },
+        {
+            "ann\u00e9e": 171,
+            "CO2_absorb\u00e9_kg": 25.42,
+            "O2_\u00e9mis_kg": 18.35
+        },
+        {
+            "ann\u00e9e": 172,
+            "CO2_absorb\u00e9_kg": 35.46,
+            "O2_\u00e9mis_kg": 19.23
+        },
+        {
+            "ann\u00e9e": 173,
+            "CO2_absorb\u00e9_kg": 31.08,
+            "O2_\u00e9mis_kg": 22.57
+        },
+        {
+            "ann\u00e9e": 174,
+            "CO2_absorb\u00e9_kg": 37.87,
+            "O2_\u00e9mis_kg": 21.81
+        },
+        {
+            "ann\u00e9e": 175,
+            "CO2_absorb\u00e9_kg": 26.4,
+            "O2_\u00e9mis_kg": 16.73
+        },
+        {
+            "ann\u00e9e": 176,
+            "CO2_absorb\u00e9_kg": 31.68,
+            "O2_\u00e9mis_kg": 17.16
+        },
+        {
+            "ann\u00e9e": 177,
+            "CO2_absorb\u00e9_kg": 28.97,
+            "O2_\u00e9mis_kg": 23.87
+        },
+        {
+            "ann\u00e9e": 178,
+            "CO2_absorb\u00e9_kg": 36.3,
+            "O2_\u00e9mis_kg": 15.79
+        },
+        {
+            "ann\u00e9e": 179,
+            "CO2_absorb\u00e9_kg": 39.93,
+            "O2_\u00e9mis_kg": 23.07
+        },
+        {
+            "ann\u00e9e": 180,
+            "CO2_absorb\u00e9_kg": 39.0,
+            "O2_\u00e9mis_kg": 22.53
+        },
+        {
+            "ann\u00e9e": 181,
+            "CO2_absorb\u00e9_kg": 28.88,
+            "O2_\u00e9mis_kg": 21.42
+        },
+        {
+            "ann\u00e9e": 182,
+            "CO2_absorb\u00e9_kg": 26.91,
+            "O2_\u00e9mis_kg": 21.07
+        },
+        {
+            "ann\u00e9e": 183,
+            "CO2_absorb\u00e9_kg": 31.23,
+            "O2_\u00e9mis_kg": 18.43
+        },
+        {
+            "ann\u00e9e": 184,
+            "CO2_absorb\u00e9_kg": 25.26,
+            "O2_\u00e9mis_kg": 18.44
+        },
+        {
+            "ann\u00e9e": 185,
+            "CO2_absorb\u00e9_kg": 28.01,
+            "O2_\u00e9mis_kg": 17.15
+        },
+        {
+            "ann\u00e9e": 186,
+            "CO2_absorb\u00e9_kg": 29.28,
+            "O2_\u00e9mis_kg": 23.62
+        },
+        {
+            "ann\u00e9e": 187,
+            "CO2_absorb\u00e9_kg": 29.09,
+            "O2_\u00e9mis_kg": 15.94
+        },
+        {
+            "ann\u00e9e": 188,
+            "CO2_absorb\u00e9_kg": 28.77,
+            "O2_\u00e9mis_kg": 18.3
+        },
+        {
+            "ann\u00e9e": 189,
+            "CO2_absorb\u00e9_kg": 25.77,
+            "O2_\u00e9mis_kg": 22.71
+        },
+        {
+            "ann\u00e9e": 190,
+            "CO2_absorb\u00e9_kg": 25.4,
+            "O2_\u00e9mis_kg": 17.61
+        },
+        {
+            "ann\u00e9e": 191,
+            "CO2_absorb\u00e9_kg": 35.62,
+            "O2_\u00e9mis_kg": 20.84
+        },
+        {
+            "ann\u00e9e": 192,
+            "CO2_absorb\u00e9_kg": 32.98,
+            "O2_\u00e9mis_kg": 21.48
+        },
+        {
+            "ann\u00e9e": 193,
+            "CO2_absorb\u00e9_kg": 33.92,
+            "O2_\u00e9mis_kg": 20.84
+        },
+        {
+            "ann\u00e9e": 194,
+            "CO2_absorb\u00e9_kg": 27.79,
+            "O2_\u00e9mis_kg": 21.71
+        },
+        {
+            "ann\u00e9e": 195,
+            "CO2_absorb\u00e9_kg": 27.17,
+            "O2_\u00e9mis_kg": 17.19
+        },
+        {
+            "ann\u00e9e": 196,
+            "CO2_absorb\u00e9_kg": 37.34,
+            "O2_\u00e9mis_kg": 23.48
+        },
+        {
+            "ann\u00e9e": 197,
+            "CO2_absorb\u00e9_kg": 27.98,
+            "O2_\u00e9mis_kg": 16.61
+        },
+        {
+            "ann\u00e9e": 198,
+            "CO2_absorb\u00e9_kg": 26.02,
+            "O2_\u00e9mis_kg": 21.71
+        },
+        {
+            "ann\u00e9e": 199,
+            "CO2_absorb\u00e9_kg": 31.27,
+            "O2_\u00e9mis_kg": 17.76
+        },
+        {
+            "ann\u00e9e": 200,
+            "CO2_absorb\u00e9_kg": 35.32,
+            "O2_\u00e9mis_kg": 16.53
+        },
+        {
+            "ann\u00e9e": 201,
+            "CO2_absorb\u00e9_kg": 26.54,
+            "O2_\u00e9mis_kg": 17.38
+        },
+        {
+            "ann\u00e9e": 202,
+            "CO2_absorb\u00e9_kg": 21.74,
+            "O2_\u00e9mis_kg": 17.21
+        },
+        {
+            "ann\u00e9e": 203,
+            "CO2_absorb\u00e9_kg": 25.49,
+            "O2_\u00e9mis_kg": 18.3
+        },
+        {
+            "ann\u00e9e": 204,
+            "CO2_absorb\u00e9_kg": 16.47,
+            "O2_\u00e9mis_kg": 17.01
+        },
+        {
+            "ann\u00e9e": 205,
+            "CO2_absorb\u00e9_kg": 22.21,
+            "O2_\u00e9mis_kg": 10.68
+        },
+        {
+            "ann\u00e9e": 206,
+            "CO2_absorb\u00e9_kg": 27.78,
+            "O2_\u00e9mis_kg": 17.12
+        },
+        {
+            "ann\u00e9e": 207,
+            "CO2_absorb\u00e9_kg": 27.88,
+            "O2_\u00e9mis_kg": 14.07
+        },
+        {
+            "ann\u00e9e": 208,
+            "CO2_absorb\u00e9_kg": 26.56,
+            "O2_\u00e9mis_kg": 12.63
+        },
+        {
+            "ann\u00e9e": 209,
+            "CO2_absorb\u00e9_kg": 19.11,
+            "O2_\u00e9mis_kg": 10.84
+        },
+        {
+            "ann\u00e9e": 210,
+            "CO2_absorb\u00e9_kg": 19.88,
+            "O2_\u00e9mis_kg": 15.54
+        },
+        {
+            "ann\u00e9e": 211,
+            "CO2_absorb\u00e9_kg": 15.38,
+            "O2_\u00e9mis_kg": 13.44
+        },
+        {
+            "ann\u00e9e": 212,
+            "CO2_absorb\u00e9_kg": 16.82,
+            "O2_\u00e9mis_kg": 17.33
+        },
+        {
+            "ann\u00e9e": 213,
+            "CO2_absorb\u00e9_kg": 25.44,
+            "O2_\u00e9mis_kg": 15.98
+        },
+        {
+            "ann\u00e9e": 214,
+            "CO2_absorb\u00e9_kg": 19.17,
+            "O2_\u00e9mis_kg": 18.94
+        },
+        {
+            "ann\u00e9e": 215,
+            "CO2_absorb\u00e9_kg": 23.32,
+            "O2_\u00e9mis_kg": 13.04
+        },
+        {
+            "ann\u00e9e": 216,
+            "CO2_absorb\u00e9_kg": 24.28,
+            "O2_\u00e9mis_kg": 10.57
+        },
+        {
+            "ann\u00e9e": 217,
+            "CO2_absorb\u00e9_kg": 17.97,
+            "O2_\u00e9mis_kg": 13.61
+        },
+        {
+            "ann\u00e9e": 218,
+            "CO2_absorb\u00e9_kg": 17.38,
+            "O2_\u00e9mis_kg": 14.93
+        },
+        {
+            "ann\u00e9e": 219,
+            "CO2_absorb\u00e9_kg": 27.01,
+            "O2_\u00e9mis_kg": 15.93
+        },
+        {
+            "ann\u00e9e": 220,
+            "CO2_absorb\u00e9_kg": 22.5,
+            "O2_\u00e9mis_kg": 11.93
+        },
+        {
+            "ann\u00e9e": 221,
+            "CO2_absorb\u00e9_kg": 27.32,
+            "O2_\u00e9mis_kg": 12.18
+        },
+        {
+            "ann\u00e9e": 222,
+            "CO2_absorb\u00e9_kg": 21.58,
+            "O2_\u00e9mis_kg": 18.59
+        },
+        {
+            "ann\u00e9e": 223,
+            "CO2_absorb\u00e9_kg": 22.63,
+            "O2_\u00e9mis_kg": 18.81
+        },
+        {
+            "ann\u00e9e": 224,
+            "CO2_absorb\u00e9_kg": 23.86,
+            "O2_\u00e9mis_kg": 12.79
+        },
+        {
+            "ann\u00e9e": 225,
+            "CO2_absorb\u00e9_kg": 21.32,
+            "O2_\u00e9mis_kg": 12.89
+        },
+        {
+            "ann\u00e9e": 226,
+            "CO2_absorb\u00e9_kg": 15.0,
+            "O2_\u00e9mis_kg": 13.84
+        },
+        {
+            "ann\u00e9e": 227,
+            "CO2_absorb\u00e9_kg": 15.69,
+            "O2_\u00e9mis_kg": 11.49
+        },
+        {
+            "ann\u00e9e": 228,
+            "CO2_absorb\u00e9_kg": 21.6,
+            "O2_\u00e9mis_kg": 14.41
+        },
+        {
+            "ann\u00e9e": 229,
+            "CO2_absorb\u00e9_kg": 24.19,
+            "O2_\u00e9mis_kg": 15.81
+        },
+        {
+            "ann\u00e9e": 230,
+            "CO2_absorb\u00e9_kg": 25.57,
+            "O2_\u00e9mis_kg": 13.83
+        },
+        {
+            "ann\u00e9e": 231,
+            "CO2_absorb\u00e9_kg": 15.65,
+            "O2_\u00e9mis_kg": 19.85
+        },
+        {
+            "ann\u00e9e": 232,
+            "CO2_absorb\u00e9_kg": 21.53,
+            "O2_\u00e9mis_kg": 10.91
+        },
+        {
+            "ann\u00e9e": 233,
+            "CO2_absorb\u00e9_kg": 26.0,
+            "O2_\u00e9mis_kg": 19.41
+        },
+        {
+            "ann\u00e9e": 234,
+            "CO2_absorb\u00e9_kg": 16.41,
+            "O2_\u00e9mis_kg": 14.47
+        },
+        {
+            "ann\u00e9e": 235,
+            "CO2_absorb\u00e9_kg": 16.89,
+            "O2_\u00e9mis_kg": 18.59
+        },
+        {
+            "ann\u00e9e": 236,
+            "CO2_absorb\u00e9_kg": 21.95,
+            "O2_\u00e9mis_kg": 14.97
+        },
+        {
+            "ann\u00e9e": 237,
+            "CO2_absorb\u00e9_kg": 21.76,
+            "O2_\u00e9mis_kg": 19.25
+        },
+        {
+            "ann\u00e9e": 238,
+            "CO2_absorb\u00e9_kg": 22.17,
+            "O2_\u00e9mis_kg": 15.77
+        },
+        {
+            "ann\u00e9e": 239,
+            "CO2_absorb\u00e9_kg": 15.13,
+            "O2_\u00e9mis_kg": 14.04
+        },
+        {
+            "ann\u00e9e": 240,
+            "CO2_absorb\u00e9_kg": 22.18,
+            "O2_\u00e9mis_kg": 11.03
+        },
+        {
+            "ann\u00e9e": 241,
+            "CO2_absorb\u00e9_kg": 22.19,
+            "O2_\u00e9mis_kg": 14.52
+        },
+        {
+            "ann\u00e9e": 242,
+            "CO2_absorb\u00e9_kg": 22.04,
+            "O2_\u00e9mis_kg": 15.7
+        },
+        {
+            "ann\u00e9e": 243,
+            "CO2_absorb\u00e9_kg": 22.55,
+            "O2_\u00e9mis_kg": 16.69
+        },
+        {
+            "ann\u00e9e": 244,
+            "CO2_absorb\u00e9_kg": 15.12,
+            "O2_\u00e9mis_kg": 16.87
+        },
+        {
+            "ann\u00e9e": 245,
+            "CO2_absorb\u00e9_kg": 18.07,
+            "O2_\u00e9mis_kg": 13.45
+        },
+        {
+            "ann\u00e9e": 246,
+            "CO2_absorb\u00e9_kg": 25.2,
+            "O2_\u00e9mis_kg": 16.08
+        },
+        {
+            "ann\u00e9e": 247,
+            "CO2_absorb\u00e9_kg": 26.79,
+            "O2_\u00e9mis_kg": 15.01
+        },
+        {
+            "ann\u00e9e": 248,
+            "CO2_absorb\u00e9_kg": 17.33,
+            "O2_\u00e9mis_kg": 19.72
+        },
+        {
+            "ann\u00e9e": 249,
+            "CO2_absorb\u00e9_kg": 29.08,
+            "O2_\u00e9mis_kg": 16.34
+        },
+        {
+            "ann\u00e9e": 250,
+            "CO2_absorb\u00e9_kg": 17.56,
+            "O2_\u00e9mis_kg": 10.17
+        },
+        {
+            "ann\u00e9e": 251,
+            "CO2_absorb\u00e9_kg": 25.58,
+            "O2_\u00e9mis_kg": 14.73
+        },
+        {
+            "ann\u00e9e": 252,
+            "CO2_absorb\u00e9_kg": 21.9,
+            "O2_\u00e9mis_kg": 11.86
+        },
+        {
+            "ann\u00e9e": 253,
+            "CO2_absorb\u00e9_kg": 27.0,
+            "O2_\u00e9mis_kg": 17.6
+        },
+        {
+            "ann\u00e9e": 254,
+            "CO2_absorb\u00e9_kg": 26.52,
+            "O2_\u00e9mis_kg": 11.46
+        },
+        {
+            "ann\u00e9e": 255,
+            "CO2_absorb\u00e9_kg": 22.78,
+            "O2_\u00e9mis_kg": 12.61
+        },
+        {
+            "ann\u00e9e": 256,
+            "CO2_absorb\u00e9_kg": 20.28,
+            "O2_\u00e9mis_kg": 11.08
+        },
+        {
+            "ann\u00e9e": 257,
+            "CO2_absorb\u00e9_kg": 21.35,
+            "O2_\u00e9mis_kg": 17.48
+        },
+        {
+            "ann\u00e9e": 258,
+            "CO2_absorb\u00e9_kg": 28.89,
+            "O2_\u00e9mis_kg": 13.46
+        },
+        {
+            "ann\u00e9e": 259,
+            "CO2_absorb\u00e9_kg": 22.13,
+            "O2_\u00e9mis_kg": 18.0
+        },
+        {
+            "ann\u00e9e": 260,
+            "CO2_absorb\u00e9_kg": 16.61,
+            "O2_\u00e9mis_kg": 12.72
+        },
+        {
+            "ann\u00e9e": 261,
+            "CO2_absorb\u00e9_kg": 23.35,
+            "O2_\u00e9mis_kg": 12.35
+        },
+        {
+            "ann\u00e9e": 262,
+            "CO2_absorb\u00e9_kg": 26.58,
+            "O2_\u00e9mis_kg": 17.65
+        },
+        {
+            "ann\u00e9e": 263,
+            "CO2_absorb\u00e9_kg": 29.64,
+            "O2_\u00e9mis_kg": 19.27
+        },
+        {
+            "ann\u00e9e": 264,
+            "CO2_absorb\u00e9_kg": 21.97,
+            "O2_\u00e9mis_kg": 19.06
+        },
+        {
+            "ann\u00e9e": 265,
+            "CO2_absorb\u00e9_kg": 22.24,
+            "O2_\u00e9mis_kg": 15.61
+        },
+        {
+            "ann\u00e9e": 266,
+            "CO2_absorb\u00e9_kg": 25.64,
+            "O2_\u00e9mis_kg": 17.9
+        },
+        {
+            "ann\u00e9e": 267,
+            "CO2_absorb\u00e9_kg": 17.38,
+            "O2_\u00e9mis_kg": 11.73
+        },
+        {
+            "ann\u00e9e": 268,
+            "CO2_absorb\u00e9_kg": 27.81,
+            "O2_\u00e9mis_kg": 16.71
+        },
+        {
+            "ann\u00e9e": 269,
+            "CO2_absorb\u00e9_kg": 27.36,
+            "O2_\u00e9mis_kg": 10.98
+        },
+        {
+            "ann\u00e9e": 270,
+            "CO2_absorb\u00e9_kg": 27.55,
+            "O2_\u00e9mis_kg": 11.12
+        },
+        {
+            "ann\u00e9e": 271,
+            "CO2_absorb\u00e9_kg": 25.78,
+            "O2_\u00e9mis_kg": 17.25
+        },
+        {
+            "ann\u00e9e": 272,
+            "CO2_absorb\u00e9_kg": 19.42,
+            "O2_\u00e9mis_kg": 18.33
+        },
+        {
+            "ann\u00e9e": 273,
+            "CO2_absorb\u00e9_kg": 27.92,
+            "O2_\u00e9mis_kg": 13.57
+        },
+        {
+            "ann\u00e9e": 274,
+            "CO2_absorb\u00e9_kg": 25.54,
+            "O2_\u00e9mis_kg": 19.29
+        },
+        {
+            "ann\u00e9e": 275,
+            "CO2_absorb\u00e9_kg": 24.64,
+            "O2_\u00e9mis_kg": 15.2
+        },
+        {
+            "ann\u00e9e": 276,
+            "CO2_absorb\u00e9_kg": 28.79,
+            "O2_\u00e9mis_kg": 16.61
+        },
+        {
+            "ann\u00e9e": 277,
+            "CO2_absorb\u00e9_kg": 29.22,
+            "O2_\u00e9mis_kg": 19.2
+        },
+        {
+            "ann\u00e9e": 278,
+            "CO2_absorb\u00e9_kg": 18.59,
+            "O2_\u00e9mis_kg": 19.75
+        },
+        {
+            "ann\u00e9e": 279,
+            "CO2_absorb\u00e9_kg": 26.29,
+            "O2_\u00e9mis_kg": 18.17
+        },
+        {
+            "ann\u00e9e": 280,
+            "CO2_absorb\u00e9_kg": 24.26,
+            "O2_\u00e9mis_kg": 17.95
+        },
+        {
+            "ann\u00e9e": 281,
+            "CO2_absorb\u00e9_kg": 22.0,
+            "O2_\u00e9mis_kg": 16.49
+        },
+        {
+            "ann\u00e9e": 282,
+            "CO2_absorb\u00e9_kg": 22.69,
+            "O2_\u00e9mis_kg": 16.97
+        },
+        {
+            "ann\u00e9e": 283,
+            "CO2_absorb\u00e9_kg": 15.39,
+            "O2_\u00e9mis_kg": 18.32
+        },
+        {
+            "ann\u00e9e": 284,
+            "CO2_absorb\u00e9_kg": 16.63,
+            "O2_\u00e9mis_kg": 17.81
+        },
+        {
+            "ann\u00e9e": 285,
+            "CO2_absorb\u00e9_kg": 27.98,
+            "O2_\u00e9mis_kg": 12.83
+        },
+        {
+            "ann\u00e9e": 286,
+            "CO2_absorb\u00e9_kg": 16.77,
+            "O2_\u00e9mis_kg": 10.52
+        },
+        {
+            "ann\u00e9e": 287,
+            "CO2_absorb\u00e9_kg": 22.8,
+            "O2_\u00e9mis_kg": 16.74
+        },
+        {
+            "ann\u00e9e": 288,
+            "CO2_absorb\u00e9_kg": 21.79,
+            "O2_\u00e9mis_kg": 16.47
+        },
+        {
+            "ann\u00e9e": 289,
+            "CO2_absorb\u00e9_kg": 21.51,
+            "O2_\u00e9mis_kg": 19.56
+        },
+        {
+            "ann\u00e9e": 290,
+            "CO2_absorb\u00e9_kg": 16.2,
+            "O2_\u00e9mis_kg": 15.32
+        },
+        {
+            "ann\u00e9e": 291,
+            "CO2_absorb\u00e9_kg": 26.38,
+            "O2_\u00e9mis_kg": 13.7
+        },
+        {
+            "ann\u00e9e": 292,
+            "CO2_absorb\u00e9_kg": 29.97,
+            "O2_\u00e9mis_kg": 17.87
+        },
+        {
+            "ann\u00e9e": 293,
+            "CO2_absorb\u00e9_kg": 18.3,
+            "O2_\u00e9mis_kg": 16.15
+        },
+        {
+            "ann\u00e9e": 294,
+            "CO2_absorb\u00e9_kg": 21.46,
+            "O2_\u00e9mis_kg": 11.54
+        },
+        {
+            "ann\u00e9e": 295,
+            "CO2_absorb\u00e9_kg": 25.65,
+            "O2_\u00e9mis_kg": 13.1
+        },
+        {
+            "ann\u00e9e": 296,
+            "CO2_absorb\u00e9_kg": 27.46,
+            "O2_\u00e9mis_kg": 15.49
+        },
+        {
+            "ann\u00e9e": 297,
+            "CO2_absorb\u00e9_kg": 28.32,
+            "O2_\u00e9mis_kg": 12.76
+        },
+        {
+            "ann\u00e9e": 298,
+            "CO2_absorb\u00e9_kg": 28.82,
+            "O2_\u00e9mis_kg": 19.64
+        },
+        {
+            "ann\u00e9e": 299,
+            "CO2_absorb\u00e9_kg": 27.15,
+            "O2_\u00e9mis_kg": 17.85
+        },
+        {
+            "ann\u00e9e": 300,
+            "CO2_absorb\u00e9_kg": 21.46,
+            "O2_\u00e9mis_kg": 10.46
+        },
+        {
+            "ann\u00e9e": 301,
+            "CO2_absorb\u00e9_kg": 26.83,
+            "O2_\u00e9mis_kg": 16.6
+        },
+        {
+            "ann\u00e9e": 302,
+            "CO2_absorb\u00e9_kg": 27.57,
+            "O2_\u00e9mis_kg": 14.78
+        },
+        {
+            "ann\u00e9e": 303,
+            "CO2_absorb\u00e9_kg": 15.06,
+            "O2_\u00e9mis_kg": 13.07
+        },
+        {
+            "ann\u00e9e": 304,
+            "CO2_absorb\u00e9_kg": 19.54,
+            "O2_\u00e9mis_kg": 14.55
+        },
+        {
+            "ann\u00e9e": 305,
+            "CO2_absorb\u00e9_kg": 20.13,
+            "O2_\u00e9mis_kg": 14.15
+        },
+        {
+            "ann\u00e9e": 306,
+            "CO2_absorb\u00e9_kg": 19.24,
+            "O2_\u00e9mis_kg": 10.29
+        },
+        {
+            "ann\u00e9e": 307,
+            "CO2_absorb\u00e9_kg": 21.77,
+            "O2_\u00e9mis_kg": 11.74
+        },
+        {
+            "ann\u00e9e": 308,
+            "CO2_absorb\u00e9_kg": 29.03,
+            "O2_\u00e9mis_kg": 14.42
+        },
+        {
+            "ann\u00e9e": 309,
+            "CO2_absorb\u00e9_kg": 26.58,
+            "O2_\u00e9mis_kg": 16.66
+        },
+        {
+            "ann\u00e9e": 310,
+            "CO2_absorb\u00e9_kg": 23.97,
+            "O2_\u00e9mis_kg": 11.53
+        },
+        {
+            "ann\u00e9e": 311,
+            "CO2_absorb\u00e9_kg": 24.64,
+            "O2_\u00e9mis_kg": 11.59
+        },
+        {
+            "ann\u00e9e": 312,
+            "CO2_absorb\u00e9_kg": 28.77,
+            "O2_\u00e9mis_kg": 17.39
+        },
+        {
+            "ann\u00e9e": 313,
+            "CO2_absorb\u00e9_kg": 24.19,
+            "O2_\u00e9mis_kg": 13.72
+        },
+        {
+            "ann\u00e9e": 314,
+            "CO2_absorb\u00e9_kg": 26.41,
+            "O2_\u00e9mis_kg": 11.81
+        },
+        {
+            "ann\u00e9e": 315,
+            "CO2_absorb\u00e9_kg": 27.64,
+            "O2_\u00e9mis_kg": 13.22
+        },
+        {
+            "ann\u00e9e": 316,
+            "CO2_absorb\u00e9_kg": 27.86,
+            "O2_\u00e9mis_kg": 11.35
+        },
+        {
+            "ann\u00e9e": 317,
+            "CO2_absorb\u00e9_kg": 15.06,
+            "O2_\u00e9mis_kg": 19.07
+        },
+        {
+            "ann\u00e9e": 318,
+            "CO2_absorb\u00e9_kg": 29.78,
+            "O2_\u00e9mis_kg": 10.19
+        },
+        {
+            "ann\u00e9e": 319,
+            "CO2_absorb\u00e9_kg": 25.12,
+            "O2_\u00e9mis_kg": 15.06
+        },
+        {
+            "ann\u00e9e": 320,
+            "CO2_absorb\u00e9_kg": 26.04,
+            "O2_\u00e9mis_kg": 15.53
+        },
+        {
+            "ann\u00e9e": 321,
+            "CO2_absorb\u00e9_kg": 24.77,
+            "O2_\u00e9mis_kg": 19.42
+        },
+        {
+            "ann\u00e9e": 322,
+            "CO2_absorb\u00e9_kg": 23.53,
+            "O2_\u00e9mis_kg": 12.2
+        },
+        {
+            "ann\u00e9e": 323,
+            "CO2_absorb\u00e9_kg": 20.16,
+            "O2_\u00e9mis_kg": 15.36
+        },
+        {
+            "ann\u00e9e": 324,
+            "CO2_absorb\u00e9_kg": 20.56,
+            "O2_\u00e9mis_kg": 14.91
+        },
+        {
+            "ann\u00e9e": 325,
+            "CO2_absorb\u00e9_kg": 19.65,
+            "O2_\u00e9mis_kg": 11.78
+        },
+        {
+            "ann\u00e9e": 326,
+            "CO2_absorb\u00e9_kg": 19.19,
+            "O2_\u00e9mis_kg": 11.43
+        },
+        {
+            "ann\u00e9e": 327,
+            "CO2_absorb\u00e9_kg": 29.35,
+            "O2_\u00e9mis_kg": 15.82
+        },
+        {
+            "ann\u00e9e": 328,
+            "CO2_absorb\u00e9_kg": 17.17,
+            "O2_\u00e9mis_kg": 19.59
+        },
+        {
+            "ann\u00e9e": 329,
+            "CO2_absorb\u00e9_kg": 16.58,
+            "O2_\u00e9mis_kg": 13.59
+        },
+        {
+            "ann\u00e9e": 330,
+            "CO2_absorb\u00e9_kg": 21.29,
+            "O2_\u00e9mis_kg": 14.97
+        },
+        {
+            "ann\u00e9e": 331,
+            "CO2_absorb\u00e9_kg": 23.88,
+            "O2_\u00e9mis_kg": 16.22
+        },
+        {
+            "ann\u00e9e": 332,
+            "CO2_absorb\u00e9_kg": 20.36,
+            "O2_\u00e9mis_kg": 17.67
+        },
+        {
+            "ann\u00e9e": 333,
+            "CO2_absorb\u00e9_kg": 16.02,
+            "O2_\u00e9mis_kg": 14.97
+        },
+        {
+            "ann\u00e9e": 334,
+            "CO2_absorb\u00e9_kg": 21.35,
+            "O2_\u00e9mis_kg": 12.68
+        },
+        {
+            "ann\u00e9e": 335,
+            "CO2_absorb\u00e9_kg": 16.65,
+            "O2_\u00e9mis_kg": 10.74
+        },
+        {
+            "ann\u00e9e": 336,
+            "CO2_absorb\u00e9_kg": 15.95,
+            "O2_\u00e9mis_kg": 13.01
+        },
+        {
+            "ann\u00e9e": 337,
+            "CO2_absorb\u00e9_kg": 27.98,
+            "O2_\u00e9mis_kg": 13.42
+        },
+        {
+            "ann\u00e9e": 338,
+            "CO2_absorb\u00e9_kg": 29.39,
+            "O2_\u00e9mis_kg": 15.01
+        },
+        {
+            "ann\u00e9e": 339,
+            "CO2_absorb\u00e9_kg": 27.8,
+            "O2_\u00e9mis_kg": 14.45
+        },
+        {
+            "ann\u00e9e": 340,
+            "CO2_absorb\u00e9_kg": 21.05,
+            "O2_\u00e9mis_kg": 11.23
+        },
+        {
+            "ann\u00e9e": 341,
+            "CO2_absorb\u00e9_kg": 24.83,
+            "O2_\u00e9mis_kg": 11.44
+        },
+        {
+            "ann\u00e9e": 342,
+            "CO2_absorb\u00e9_kg": 22.95,
+            "O2_\u00e9mis_kg": 10.5
+        },
+        {
+            "ann\u00e9e": 343,
+            "CO2_absorb\u00e9_kg": 27.44,
+            "O2_\u00e9mis_kg": 16.29
+        },
+        {
+            "ann\u00e9e": 344,
+            "CO2_absorb\u00e9_kg": 24.69,
+            "O2_\u00e9mis_kg": 11.12
+        },
+        {
+            "ann\u00e9e": 345,
+            "CO2_absorb\u00e9_kg": 24.83,
+            "O2_\u00e9mis_kg": 13.49
+        },
+        {
+            "ann\u00e9e": 346,
+            "CO2_absorb\u00e9_kg": 22.08,
+            "O2_\u00e9mis_kg": 14.28
+        },
+        {
+            "ann\u00e9e": 347,
+            "CO2_absorb\u00e9_kg": 23.94,
+            "O2_\u00e9mis_kg": 10.12
+        },
+        {
+            "ann\u00e9e": 348,
+            "CO2_absorb\u00e9_kg": 17.83,
+            "O2_\u00e9mis_kg": 18.03
+        },
+        {
+            "ann\u00e9e": 349,
+            "CO2_absorb\u00e9_kg": 21.88,
+            "O2_\u00e9mis_kg": 13.23
+        },
+        {
+            "ann\u00e9e": 350,
+            "CO2_absorb\u00e9_kg": 22.07,
+            "O2_\u00e9mis_kg": 13.11
+        },
+        {
+            "ann\u00e9e": 351,
+            "CO2_absorb\u00e9_kg": 21.09,
+            "O2_\u00e9mis_kg": 15.44
+        },
+        {
+            "ann\u00e9e": 352,
+            "CO2_absorb\u00e9_kg": 20.37,
+            "O2_\u00e9mis_kg": 12.49
+        },
+        {
+            "ann\u00e9e": 353,
+            "CO2_absorb\u00e9_kg": 29.51,
+            "O2_\u00e9mis_kg": 18.81
+        },
+        {
+            "ann\u00e9e": 354,
+            "CO2_absorb\u00e9_kg": 24.11,
+            "O2_\u00e9mis_kg": 13.32
+        },
+        {
+            "ann\u00e9e": 355,
+            "CO2_absorb\u00e9_kg": 24.72,
+            "O2_\u00e9mis_kg": 11.52
+        },
+        {
+            "ann\u00e9e": 356,
+            "CO2_absorb\u00e9_kg": 22.27,
+            "O2_\u00e9mis_kg": 18.63
+        },
+        {
+            "ann\u00e9e": 357,
+            "CO2_absorb\u00e9_kg": 16.69,
+            "O2_\u00e9mis_kg": 16.19
+        },
+        {
+            "ann\u00e9e": 358,
+            "CO2_absorb\u00e9_kg": 19.22,
+            "O2_\u00e9mis_kg": 18.36
+        },
+        {
+            "ann\u00e9e": 359,
+            "CO2_absorb\u00e9_kg": 29.76,
+            "O2_\u00e9mis_kg": 18.78
+        },
+        {
+            "ann\u00e9e": 360,
+            "CO2_absorb\u00e9_kg": 24.26,
+            "O2_\u00e9mis_kg": 16.93
+        },
+        {
+            "ann\u00e9e": 361,
+            "CO2_absorb\u00e9_kg": 17.39,
+            "O2_\u00e9mis_kg": 11.18
+        },
+        {
+            "ann\u00e9e": 362,
+            "CO2_absorb\u00e9_kg": 28.37,
+            "O2_\u00e9mis_kg": 12.31
+        },
+        {
+            "ann\u00e9e": 363,
+            "CO2_absorb\u00e9_kg": 26.77,
+            "O2_\u00e9mis_kg": 19.02
+        },
+        {
+            "ann\u00e9e": 364,
+            "CO2_absorb\u00e9_kg": 29.17,
+            "O2_\u00e9mis_kg": 14.76
+        },
+        {
+            "ann\u00e9e": 365,
+            "CO2_absorb\u00e9_kg": 20.33,
+            "O2_\u00e9mis_kg": 17.32
+        },
+        {
+            "ann\u00e9e": 366,
+            "CO2_absorb\u00e9_kg": 15.47,
+            "O2_\u00e9mis_kg": 13.85
+        },
+        {
+            "ann\u00e9e": 367,
+            "CO2_absorb\u00e9_kg": 21.93,
+            "O2_\u00e9mis_kg": 14.75
+        },
+        {
+            "ann\u00e9e": 368,
+            "CO2_absorb\u00e9_kg": 28.9,
+            "O2_\u00e9mis_kg": 11.79
+        },
+        {
+            "ann\u00e9e": 369,
+            "CO2_absorb\u00e9_kg": 22.92,
+            "O2_\u00e9mis_kg": 13.93
+        },
+        {
+            "ann\u00e9e": 370,
+            "CO2_absorb\u00e9_kg": 26.23,
+            "O2_\u00e9mis_kg": 19.97
+        },
+        {
+            "ann\u00e9e": 371,
+            "CO2_absorb\u00e9_kg": 17.97,
+            "O2_\u00e9mis_kg": 13.41
+        },
+        {
+            "ann\u00e9e": 372,
+            "CO2_absorb\u00e9_kg": 22.77,
+            "O2_\u00e9mis_kg": 14.66
+        },
+        {
+            "ann\u00e9e": 373,
+            "CO2_absorb\u00e9_kg": 28.32,
+            "O2_\u00e9mis_kg": 12.83
+        },
+        {
+            "ann\u00e9e": 374,
+            "CO2_absorb\u00e9_kg": 18.63,
+            "O2_\u00e9mis_kg": 17.28
+        },
+        {
+            "ann\u00e9e": 375,
+            "CO2_absorb\u00e9_kg": 28.79,
+            "O2_\u00e9mis_kg": 18.99
+        },
+        {
+            "ann\u00e9e": 376,
+            "CO2_absorb\u00e9_kg": 18.37,
+            "O2_\u00e9mis_kg": 11.4
+        },
+        {
+            "ann\u00e9e": 377,
+            "CO2_absorb\u00e9_kg": 18.91,
+            "O2_\u00e9mis_kg": 16.34
+        },
+        {
+            "ann\u00e9e": 378,
+            "CO2_absorb\u00e9_kg": 25.02,
+            "O2_\u00e9mis_kg": 14.03
+        },
+        {
+            "ann\u00e9e": 379,
+            "CO2_absorb\u00e9_kg": 22.75,
+            "O2_\u00e9mis_kg": 19.3
+        },
+        {
+            "ann\u00e9e": 380,
+            "CO2_absorb\u00e9_kg": 21.87,
+            "O2_\u00e9mis_kg": 11.65
+        },
+        {
+            "ann\u00e9e": 381,
+            "CO2_absorb\u00e9_kg": 25.6,
+            "O2_\u00e9mis_kg": 18.3
+        },
+        {
+            "ann\u00e9e": 382,
+            "CO2_absorb\u00e9_kg": 28.7,
+            "O2_\u00e9mis_kg": 10.71
+        },
+        {
+            "ann\u00e9e": 383,
+            "CO2_absorb\u00e9_kg": 19.92,
+            "O2_\u00e9mis_kg": 18.96
+        },
+        {
+            "ann\u00e9e": 384,
+            "CO2_absorb\u00e9_kg": 29.87,
+            "O2_\u00e9mis_kg": 17.04
+        },
+        {
+            "ann\u00e9e": 385,
+            "CO2_absorb\u00e9_kg": 27.38,
+            "O2_\u00e9mis_kg": 18.95
+        },
+        {
+            "ann\u00e9e": 386,
+            "CO2_absorb\u00e9_kg": 16.51,
+            "O2_\u00e9mis_kg": 16.77
+        },
+        {
+            "ann\u00e9e": 387,
+            "CO2_absorb\u00e9_kg": 15.86,
+            "O2_\u00e9mis_kg": 11.31
+        },
+        {
+            "ann\u00e9e": 388,
+            "CO2_absorb\u00e9_kg": 15.54,
+            "O2_\u00e9mis_kg": 15.63
+        },
+        {
+            "ann\u00e9e": 389,
+            "CO2_absorb\u00e9_kg": 29.69,
+            "O2_\u00e9mis_kg": 10.92
+        },
+        {
+            "ann\u00e9e": 390,
+            "CO2_absorb\u00e9_kg": 15.03,
+            "O2_\u00e9mis_kg": 17.74
+        },
+        {
+            "ann\u00e9e": 391,
+            "CO2_absorb\u00e9_kg": 16.45,
+            "O2_\u00e9mis_kg": 19.99
+        },
+        {
+            "ann\u00e9e": 392,
+            "CO2_absorb\u00e9_kg": 15.4,
+            "O2_\u00e9mis_kg": 12.42
+        },
+        {
+            "ann\u00e9e": 393,
+            "CO2_absorb\u00e9_kg": 15.07,
+            "O2_\u00e9mis_kg": 18.3
+        },
+        {
+            "ann\u00e9e": 394,
+            "CO2_absorb\u00e9_kg": 22.63,
+            "O2_\u00e9mis_kg": 13.57
+        },
+        {
+            "ann\u00e9e": 395,
+            "CO2_absorb\u00e9_kg": 16.83,
+            "O2_\u00e9mis_kg": 15.46
+        },
+        {
+            "ann\u00e9e": 396,
+            "CO2_absorb\u00e9_kg": 26.5,
+            "O2_\u00e9mis_kg": 15.93
+        },
+        {
+            "ann\u00e9e": 397,
+            "CO2_absorb\u00e9_kg": 16.57,
+            "O2_\u00e9mis_kg": 17.3
+        },
+        {
+            "ann\u00e9e": 398,
+            "CO2_absorb\u00e9_kg": 27.33,
+            "O2_\u00e9mis_kg": 16.88
+        },
+        {
+            "ann\u00e9e": 399,
+            "CO2_absorb\u00e9_kg": 18.52,
+            "O2_\u00e9mis_kg": 15.05
+        },
+        {
+            "ann\u00e9e": 400,
+            "CO2_absorb\u00e9_kg": 28.09,
+            "O2_\u00e9mis_kg": 16.54
+        },
+        {
+            "ann\u00e9e": 401,
+            "CO2_absorb\u00e9_kg": 15.5,
+            "O2_\u00e9mis_kg": 12.68
+        },
+        {
+            "ann\u00e9e": 402,
+            "CO2_absorb\u00e9_kg": 24.07,
+            "O2_\u00e9mis_kg": 11.95
+        },
+        {
+            "ann\u00e9e": 403,
+            "CO2_absorb\u00e9_kg": 17.62,
+            "O2_\u00e9mis_kg": 12.96
+        },
+        {
+            "ann\u00e9e": 404,
+            "CO2_absorb\u00e9_kg": 15.62,
+            "O2_\u00e9mis_kg": 14.63
+        },
+        {
+            "ann\u00e9e": 405,
+            "CO2_absorb\u00e9_kg": 15.03,
+            "O2_\u00e9mis_kg": 11.99
+        },
+        {
+            "ann\u00e9e": 406,
+            "CO2_absorb\u00e9_kg": 26.23,
+            "O2_\u00e9mis_kg": 12.45
+        },
+        {
+            "ann\u00e9e": 407,
+            "CO2_absorb\u00e9_kg": 22.44,
+            "O2_\u00e9mis_kg": 19.2
+        },
+        {
+            "ann\u00e9e": 408,
+            "CO2_absorb\u00e9_kg": 19.2,
+            "O2_\u00e9mis_kg": 10.36
+        },
+        {
+            "ann\u00e9e": 409,
+            "CO2_absorb\u00e9_kg": 23.46,
+            "O2_\u00e9mis_kg": 13.89
+        },
+        {
+            "ann\u00e9e": 410,
+            "CO2_absorb\u00e9_kg": 29.87,
+            "O2_\u00e9mis_kg": 13.35
+        },
+        {
+            "ann\u00e9e": 411,
+            "CO2_absorb\u00e9_kg": 19.07,
+            "O2_\u00e9mis_kg": 12.89
+        },
+        {
+            "ann\u00e9e": 412,
+            "CO2_absorb\u00e9_kg": 26.15,
+            "O2_\u00e9mis_kg": 13.63
+        },
+        {
+            "ann\u00e9e": 413,
+            "CO2_absorb\u00e9_kg": 22.58,
+            "O2_\u00e9mis_kg": 14.29
+        },
+        {
+            "ann\u00e9e": 414,
+            "CO2_absorb\u00e9_kg": 19.58,
+            "O2_\u00e9mis_kg": 14.01
+        },
+        {
+            "ann\u00e9e": 415,
+            "CO2_absorb\u00e9_kg": 26.27,
+            "O2_\u00e9mis_kg": 13.65
+        },
+        {
+            "ann\u00e9e": 416,
+            "CO2_absorb\u00e9_kg": 24.17,
+            "O2_\u00e9mis_kg": 16.58
+        },
+        {
+            "ann\u00e9e": 417,
+            "CO2_absorb\u00e9_kg": 26.98,
+            "O2_\u00e9mis_kg": 16.82
+        },
+        {
+            "ann\u00e9e": 418,
+            "CO2_absorb\u00e9_kg": 27.15,
+            "O2_\u00e9mis_kg": 15.69
+        },
+        {
+            "ann\u00e9e": 419,
+            "CO2_absorb\u00e9_kg": 17.65,
+            "O2_\u00e9mis_kg": 10.79
+        },
+        {
+            "ann\u00e9e": 420,
+            "CO2_absorb\u00e9_kg": 23.01,
+            "O2_\u00e9mis_kg": 19.94
+        },
+        {
+            "ann\u00e9e": 421,
+            "CO2_absorb\u00e9_kg": 16.92,
+            "O2_\u00e9mis_kg": 13.21
+        },
+        {
+            "ann\u00e9e": 422,
+            "CO2_absorb\u00e9_kg": 21.1,
+            "O2_\u00e9mis_kg": 11.53
+        },
+        {
+            "ann\u00e9e": 423,
+            "CO2_absorb\u00e9_kg": 23.43,
+            "O2_\u00e9mis_kg": 18.25
+        },
+        {
+            "ann\u00e9e": 424,
+            "CO2_absorb\u00e9_kg": 23.41,
+            "O2_\u00e9mis_kg": 13.18
+        },
+        {
+            "ann\u00e9e": 425,
+            "CO2_absorb\u00e9_kg": 26.67,
+            "O2_\u00e9mis_kg": 16.92
+        },
+        {
+            "ann\u00e9e": 426,
+            "CO2_absorb\u00e9_kg": 21.07,
+            "O2_\u00e9mis_kg": 18.92
+        },
+        {
+            "ann\u00e9e": 427,
+            "CO2_absorb\u00e9_kg": 21.83,
+            "O2_\u00e9mis_kg": 17.39
+        },
+        {
+            "ann\u00e9e": 428,
+            "CO2_absorb\u00e9_kg": 28.36,
+            "O2_\u00e9mis_kg": 17.23
+        },
+        {
+            "ann\u00e9e": 429,
+            "CO2_absorb\u00e9_kg": 26.31,
+            "O2_\u00e9mis_kg": 11.34
+        },
+        {
+            "ann\u00e9e": 430,
+            "CO2_absorb\u00e9_kg": 18.91,
+            "O2_\u00e9mis_kg": 14.03
+        },
+        {
+            "ann\u00e9e": 431,
+            "CO2_absorb\u00e9_kg": 21.57,
+            "O2_\u00e9mis_kg": 15.19
+        },
+        {
+            "ann\u00e9e": 432,
+            "CO2_absorb\u00e9_kg": 19.99,
+            "O2_\u00e9mis_kg": 11.42
+        },
+        {
+            "ann\u00e9e": 433,
+            "CO2_absorb\u00e9_kg": 19.63,
+            "O2_\u00e9mis_kg": 16.7
+        },
+        {
+            "ann\u00e9e": 434,
+            "CO2_absorb\u00e9_kg": 19.87,
+            "O2_\u00e9mis_kg": 13.16
+        },
+        {
+            "ann\u00e9e": 435,
+            "CO2_absorb\u00e9_kg": 25.44,
+            "O2_\u00e9mis_kg": 14.68
+        },
+        {
+            "ann\u00e9e": 436,
+            "CO2_absorb\u00e9_kg": 15.87,
+            "O2_\u00e9mis_kg": 19.81
+        },
+        {
+            "ann\u00e9e": 437,
+            "CO2_absorb\u00e9_kg": 15.65,
+            "O2_\u00e9mis_kg": 15.69
+        },
+        {
+            "ann\u00e9e": 438,
+            "CO2_absorb\u00e9_kg": 15.3,
+            "O2_\u00e9mis_kg": 15.08
+        },
+        {
+            "ann\u00e9e": 439,
+            "CO2_absorb\u00e9_kg": 21.22,
+            "O2_\u00e9mis_kg": 13.57
+        },
+        {
+            "ann\u00e9e": 440,
+            "CO2_absorb\u00e9_kg": 24.46,
+            "O2_\u00e9mis_kg": 16.5
+        },
+        {
+            "ann\u00e9e": 441,
+            "CO2_absorb\u00e9_kg": 25.66,
+            "O2_\u00e9mis_kg": 14.28
+        },
+        {
+            "ann\u00e9e": 442,
+            "CO2_absorb\u00e9_kg": 28.77,
+            "O2_\u00e9mis_kg": 15.82
+        },
+        {
+            "ann\u00e9e": 443,
+            "CO2_absorb\u00e9_kg": 21.1,
+            "O2_\u00e9mis_kg": 18.85
+        },
+        {
+            "ann\u00e9e": 444,
+            "CO2_absorb\u00e9_kg": 24.57,
+            "O2_\u00e9mis_kg": 17.4
+        },
+        {
+            "ann\u00e9e": 445,
+            "CO2_absorb\u00e9_kg": 18.12,
+            "O2_\u00e9mis_kg": 19.35
+        },
+        {
+            "ann\u00e9e": 446,
+            "CO2_absorb\u00e9_kg": 20.1,
+            "O2_\u00e9mis_kg": 16.77
+        },
+        {
+            "ann\u00e9e": 447,
+            "CO2_absorb\u00e9_kg": 15.56,
+            "O2_\u00e9mis_kg": 10.69
+        },
+        {
+            "ann\u00e9e": 448,
+            "CO2_absorb\u00e9_kg": 27.09,
+            "O2_\u00e9mis_kg": 14.39
+        },
+        {
+            "ann\u00e9e": 449,
+            "CO2_absorb\u00e9_kg": 26.74,
+            "O2_\u00e9mis_kg": 19.73
+        },
+        {
+            "ann\u00e9e": 450,
+            "CO2_absorb\u00e9_kg": 26.58,
+            "O2_\u00e9mis_kg": 14.18
+        },
+        {
+            "ann\u00e9e": 451,
+            "CO2_absorb\u00e9_kg": 26.16,
+            "O2_\u00e9mis_kg": 12.92
+        },
+        {
+            "ann\u00e9e": 452,
+            "CO2_absorb\u00e9_kg": 21.27,
+            "O2_\u00e9mis_kg": 11.5
+        },
+        {
+            "ann\u00e9e": 453,
+            "CO2_absorb\u00e9_kg": 29.26,
+            "O2_\u00e9mis_kg": 12.54
+        },
+        {
+            "ann\u00e9e": 454,
+            "CO2_absorb\u00e9_kg": 19.82,
+            "O2_\u00e9mis_kg": 18.65
+        },
+        {
+            "ann\u00e9e": 455,
+            "CO2_absorb\u00e9_kg": 16.91,
+            "O2_\u00e9mis_kg": 14.24
+        },
+        {
+            "ann\u00e9e": 456,
+            "CO2_absorb\u00e9_kg": 24.25,
+            "O2_\u00e9mis_kg": 14.16
+        },
+        {
+            "ann\u00e9e": 457,
+            "CO2_absorb\u00e9_kg": 26.71,
+            "O2_\u00e9mis_kg": 12.57
+        },
+        {
+            "ann\u00e9e": 458,
+            "CO2_absorb\u00e9_kg": 23.71,
+            "O2_\u00e9mis_kg": 11.19
+        },
+        {
+            "ann\u00e9e": 459,
+            "CO2_absorb\u00e9_kg": 26.67,
+            "O2_\u00e9mis_kg": 14.4
+        },
+        {
+            "ann\u00e9e": 460,
+            "CO2_absorb\u00e9_kg": 22.46,
+            "O2_\u00e9mis_kg": 10.67
+        },
+        {
+            "ann\u00e9e": 461,
+            "CO2_absorb\u00e9_kg": 18.96,
+            "O2_\u00e9mis_kg": 14.52
+        },
+        {
+            "ann\u00e9e": 462,
+            "CO2_absorb\u00e9_kg": 17.69,
+            "O2_\u00e9mis_kg": 14.99
+        },
+        {
+            "ann\u00e9e": 463,
+            "CO2_absorb\u00e9_kg": 28.94,
+            "O2_\u00e9mis_kg": 14.32
+        },
+        {
+            "ann\u00e9e": 464,
+            "CO2_absorb\u00e9_kg": 23.05,
+            "O2_\u00e9mis_kg": 14.22
+        },
+        {
+            "ann\u00e9e": 465,
+            "CO2_absorb\u00e9_kg": 22.13,
+            "O2_\u00e9mis_kg": 13.12
+        },
+        {
+            "ann\u00e9e": 466,
+            "CO2_absorb\u00e9_kg": 29.92,
+            "O2_\u00e9mis_kg": 18.49
+        },
+        {
+            "ann\u00e9e": 467,
+            "CO2_absorb\u00e9_kg": 16.46,
+            "O2_\u00e9mis_kg": 12.03
+        },
+        {
+            "ann\u00e9e": 468,
+            "CO2_absorb\u00e9_kg": 26.13,
+            "O2_\u00e9mis_kg": 11.11
+        },
+        {
+            "ann\u00e9e": 469,
+            "CO2_absorb\u00e9_kg": 15.93,
+            "O2_\u00e9mis_kg": 14.95
+        },
+        {
+            "ann\u00e9e": 470,
+            "CO2_absorb\u00e9_kg": 16.78,
+            "O2_\u00e9mis_kg": 16.77
+        },
+        {
+            "ann\u00e9e": 471,
+            "CO2_absorb\u00e9_kg": 24.36,
+            "O2_\u00e9mis_kg": 18.13
+        },
+        {
+            "ann\u00e9e": 472,
+            "CO2_absorb\u00e9_kg": 28.3,
+            "O2_\u00e9mis_kg": 16.59
+        },
+        {
+            "ann\u00e9e": 473,
+            "CO2_absorb\u00e9_kg": 20.68,
+            "O2_\u00e9mis_kg": 14.75
+        },
+        {
+            "ann\u00e9e": 474,
+            "CO2_absorb\u00e9_kg": 19.82,
+            "O2_\u00e9mis_kg": 19.12
+        },
+        {
+            "ann\u00e9e": 475,
+            "CO2_absorb\u00e9_kg": 17.22,
+            "O2_\u00e9mis_kg": 14.86
+        },
+        {
+            "ann\u00e9e": 476,
+            "CO2_absorb\u00e9_kg": 20.95,
+            "O2_\u00e9mis_kg": 13.67
+        },
+        {
+            "ann\u00e9e": 477,
+            "CO2_absorb\u00e9_kg": 19.86,
+            "O2_\u00e9mis_kg": 14.15
+        },
+        {
+            "ann\u00e9e": 478,
+            "CO2_absorb\u00e9_kg": 17.04,
+            "O2_\u00e9mis_kg": 13.85
+        },
+        {
+            "ann\u00e9e": 479,
+            "CO2_absorb\u00e9_kg": 19.37,
+            "O2_\u00e9mis_kg": 10.12
+        },
+        {
+            "ann\u00e9e": 480,
+            "CO2_absorb\u00e9_kg": 21.22,
+            "O2_\u00e9mis_kg": 16.85
+        },
+        {
+            "ann\u00e9e": 481,
+            "CO2_absorb\u00e9_kg": 28.76,
+            "O2_\u00e9mis_kg": 16.86
+        },
+        {
+            "ann\u00e9e": 482,
+            "CO2_absorb\u00e9_kg": 28.26,
+            "O2_\u00e9mis_kg": 15.08
+        },
+        {
+            "ann\u00e9e": 483,
+            "CO2_absorb\u00e9_kg": 25.81,
+            "O2_\u00e9mis_kg": 17.65
+        },
+        {
+            "ann\u00e9e": 484,
+            "CO2_absorb\u00e9_kg": 29.33,
+            "O2_\u00e9mis_kg": 16.6
+        },
+        {
+            "ann\u00e9e": 485,
+            "CO2_absorb\u00e9_kg": 20.0,
+            "O2_\u00e9mis_kg": 19.15
+        },
+        {
+            "ann\u00e9e": 486,
+            "CO2_absorb\u00e9_kg": 28.92,
+            "O2_\u00e9mis_kg": 19.58
+        },
+        {
+            "ann\u00e9e": 487,
+            "CO2_absorb\u00e9_kg": 27.77,
+            "O2_\u00e9mis_kg": 10.56
+        },
+        {
+            "ann\u00e9e": 488,
+            "CO2_absorb\u00e9_kg": 26.37,
+            "O2_\u00e9mis_kg": 12.51
+        },
+        {
+            "ann\u00e9e": 489,
+            "CO2_absorb\u00e9_kg": 17.77,
+            "O2_\u00e9mis_kg": 13.03
+        },
+        {
+            "ann\u00e9e": 490,
+            "CO2_absorb\u00e9_kg": 24.36,
+            "O2_\u00e9mis_kg": 12.4
+        },
+        {
+            "ann\u00e9e": 491,
+            "CO2_absorb\u00e9_kg": 23.47,
+            "O2_\u00e9mis_kg": 18.77
+        },
+        {
+            "ann\u00e9e": 492,
+            "CO2_absorb\u00e9_kg": 26.64,
+            "O2_\u00e9mis_kg": 16.63
+        },
+        {
+            "ann\u00e9e": 493,
+            "CO2_absorb\u00e9_kg": 18.69,
+            "O2_\u00e9mis_kg": 10.12
+        },
+        {
+            "ann\u00e9e": 494,
+            "CO2_absorb\u00e9_kg": 27.04,
+            "O2_\u00e9mis_kg": 16.86
+        },
+        {
+            "ann\u00e9e": 495,
+            "CO2_absorb\u00e9_kg": 26.81,
+            "O2_\u00e9mis_kg": 17.03
+        },
+        {
+            "ann\u00e9e": 496,
+            "CO2_absorb\u00e9_kg": 26.62,
+            "O2_\u00e9mis_kg": 12.19
+        },
+        {
+            "ann\u00e9e": 497,
+            "CO2_absorb\u00e9_kg": 15.48,
+            "O2_\u00e9mis_kg": 16.0
+        },
+        {
+            "ann\u00e9e": 498,
+            "CO2_absorb\u00e9_kg": 22.09,
+            "O2_\u00e9mis_kg": 18.47
+        },
+        {
+            "ann\u00e9e": 499,
+            "CO2_absorb\u00e9_kg": 19.93,
+            "O2_\u00e9mis_kg": 15.47
+        },
+        {
+            "ann\u00e9e": 500,
+            "CO2_absorb\u00e9_kg": 23.9,
+            "O2_\u00e9mis_kg": 14.79
+        }
+    ],
+    "bouleau": [
+        {
+            "ann\u00e9e": 1,
+            "CO2_absorb\u00e9_kg": 2.89,
+            "O2_\u00e9mis_kg": 1.04
+        },
+        {
+            "ann\u00e9e": 2,
+            "CO2_absorb\u00e9_kg": 3.35,
+            "O2_\u00e9mis_kg": 4.79
+        },
+        {
+            "ann\u00e9e": 3,
+            "CO2_absorb\u00e9_kg": 7.01,
+            "O2_\u00e9mis_kg": 3.25
+        },
+        {
+            "ann\u00e9e": 4,
+            "CO2_absorb\u00e9_kg": 3.89,
+            "O2_\u00e9mis_kg": 1.27
+        },
+        {
+            "ann\u00e9e": 5,
+            "CO2_absorb\u00e9_kg": 6.35,
+            "O2_\u00e9mis_kg": 5.59
+        },
+        {
+            "ann\u00e9e": 6,
+            "CO2_absorb\u00e9_kg": 5.51,
+            "O2_\u00e9mis_kg": 1.65
+        },
+        {
+            "ann\u00e9e": 7,
+            "CO2_absorb\u00e9_kg": 2.1,
+            "O2_\u00e9mis_kg": 4.8
+        },
+        {
+            "ann\u00e9e": 8,
+            "CO2_absorb\u00e9_kg": 7.71,
+            "O2_\u00e9mis_kg": 2.11
+        },
+        {
+            "ann\u00e9e": 9,
+            "CO2_absorb\u00e9_kg": 2.7,
+            "O2_\u00e9mis_kg": 1.77
+        },
+        {
+            "ann\u00e9e": 10,
+            "CO2_absorb\u00e9_kg": 2.75,
+            "O2_\u00e9mis_kg": 5.61
+        },
+        {
+            "ann\u00e9e": 11,
+            "CO2_absorb\u00e9_kg": 17.85,
+            "O2_\u00e9mis_kg": 10.87
+        },
+        {
+            "ann\u00e9e": 12,
+            "CO2_absorb\u00e9_kg": 17.48,
+            "O2_\u00e9mis_kg": 11.26
+        },
+        {
+            "ann\u00e9e": 13,
+            "CO2_absorb\u00e9_kg": 14.61,
+            "O2_\u00e9mis_kg": 10.92
+        },
+        {
+            "ann\u00e9e": 14,
+            "CO2_absorb\u00e9_kg": 13.08,
+            "O2_\u00e9mis_kg": 11.55
+        },
+        {
+            "ann\u00e9e": 15,
+            "CO2_absorb\u00e9_kg": 19.83,
+            "O2_\u00e9mis_kg": 10.47
+        },
+        {
+            "ann\u00e9e": 16,
+            "CO2_absorb\u00e9_kg": 13.74,
+            "O2_\u00e9mis_kg": 10.87
+        },
+        {
+            "ann\u00e9e": 17,
+            "CO2_absorb\u00e9_kg": 9.81,
+            "O2_\u00e9mis_kg": 11.65
+        },
+        {
+            "ann\u00e9e": 18,
+            "CO2_absorb\u00e9_kg": 14.77,
+            "O2_\u00e9mis_kg": 9.9
+        },
+        {
+            "ann\u00e9e": 19,
+            "CO2_absorb\u00e9_kg": 11.38,
+            "O2_\u00e9mis_kg": 11.98
+        },
+        {
+            "ann\u00e9e": 20,
+            "CO2_absorb\u00e9_kg": 15.03,
+            "O2_\u00e9mis_kg": 7.87
+        },
+        {
+            "ann\u00e9e": 21,
+            "CO2_absorb\u00e9_kg": 18.65,
+            "O2_\u00e9mis_kg": 11.24
+        },
+        {
+            "ann\u00e9e": 22,
+            "CO2_absorb\u00e9_kg": 8.25,
+            "O2_\u00e9mis_kg": 7.1
+        },
+        {
+            "ann\u00e9e": 23,
+            "CO2_absorb\u00e9_kg": 18.71,
+            "O2_\u00e9mis_kg": 7.06
+        },
+        {
+            "ann\u00e9e": 24,
+            "CO2_absorb\u00e9_kg": 13.22,
+            "O2_\u00e9mis_kg": 6.9
+        },
+        {
+            "ann\u00e9e": 25,
+            "CO2_absorb\u00e9_kg": 9.66,
+            "O2_\u00e9mis_kg": 11.04
+        },
+        {
+            "ann\u00e9e": 26,
+            "CO2_absorb\u00e9_kg": 16.69,
+            "O2_\u00e9mis_kg": 7.11
+        },
+        {
+            "ann\u00e9e": 27,
+            "CO2_absorb\u00e9_kg": 13.42,
+            "O2_\u00e9mis_kg": 10.68
+        },
+        {
+            "ann\u00e9e": 28,
+            "CO2_absorb\u00e9_kg": 12.19,
+            "O2_\u00e9mis_kg": 10.03
+        },
+        {
+            "ann\u00e9e": 29,
+            "CO2_absorb\u00e9_kg": 19.92,
+            "O2_\u00e9mis_kg": 6.95
+        },
+        {
+            "ann\u00e9e": 30,
+            "CO2_absorb\u00e9_kg": 11.0,
+            "O2_\u00e9mis_kg": 6.37
+        },
+        {
+            "ann\u00e9e": 31,
+            "CO2_absorb\u00e9_kg": 18.7,
+            "O2_\u00e9mis_kg": 9.36
+        },
+        {
+            "ann\u00e9e": 32,
+            "CO2_absorb\u00e9_kg": 8.48,
+            "O2_\u00e9mis_kg": 6.38
+        },
+        {
+            "ann\u00e9e": 33,
+            "CO2_absorb\u00e9_kg": 9.92,
+            "O2_\u00e9mis_kg": 11.44
+        },
+        {
+            "ann\u00e9e": 34,
+            "CO2_absorb\u00e9_kg": 17.63,
+            "O2_\u00e9mis_kg": 10.84
+        },
+        {
+            "ann\u00e9e": 35,
+            "CO2_absorb\u00e9_kg": 8.84,
+            "O2_\u00e9mis_kg": 11.12
+        },
+        {
+            "ann\u00e9e": 36,
+            "CO2_absorb\u00e9_kg": 9.41,
+            "O2_\u00e9mis_kg": 11.29
+        },
+        {
+            "ann\u00e9e": 37,
+            "CO2_absorb\u00e9_kg": 10.81,
+            "O2_\u00e9mis_kg": 9.08
+        },
+        {
+            "ann\u00e9e": 38,
+            "CO2_absorb\u00e9_kg": 9.13,
+            "O2_\u00e9mis_kg": 9.25
+        },
+        {
+            "ann\u00e9e": 39,
+            "CO2_absorb\u00e9_kg": 17.67,
+            "O2_\u00e9mis_kg": 9.59
+        },
+        {
+            "ann\u00e9e": 40,
+            "CO2_absorb\u00e9_kg": 10.58,
+            "O2_\u00e9mis_kg": 10.83
+        },
+        {
+            "ann\u00e9e": 41,
+            "CO2_absorb\u00e9_kg": 12.02,
+            "O2_\u00e9mis_kg": 11.08
+        },
+        {
+            "ann\u00e9e": 42,
+            "CO2_absorb\u00e9_kg": 9.04,
+            "O2_\u00e9mis_kg": 7.43
+        },
+        {
+            "ann\u00e9e": 43,
+            "CO2_absorb\u00e9_kg": 12.74,
+            "O2_\u00e9mis_kg": 9.26
+        },
+        {
+            "ann\u00e9e": 44,
+            "CO2_absorb\u00e9_kg": 17.86,
+            "O2_\u00e9mis_kg": 6.56
+        },
+        {
+            "ann\u00e9e": 45,
+            "CO2_absorb\u00e9_kg": 12.48,
+            "O2_\u00e9mis_kg": 7.95
+        },
+        {
+            "ann\u00e9e": 46,
+            "CO2_absorb\u00e9_kg": 9.25,
+            "O2_\u00e9mis_kg": 10.57
+        },
+        {
+            "ann\u00e9e": 47,
+            "CO2_absorb\u00e9_kg": 17.79,
+            "O2_\u00e9mis_kg": 6.77
+        },
+        {
+            "ann\u00e9e": 48,
+            "CO2_absorb\u00e9_kg": 9.95,
+            "O2_\u00e9mis_kg": 7.74
+        },
+        {
+            "ann\u00e9e": 49,
+            "CO2_absorb\u00e9_kg": 14.79,
+            "O2_\u00e9mis_kg": 10.93
+        },
+        {
+            "ann\u00e9e": 50,
+            "CO2_absorb\u00e9_kg": 18.94,
+            "O2_\u00e9mis_kg": 6.76
+        },
+        {
+            "ann\u00e9e": 51,
+            "CO2_absorb\u00e9_kg": 34.06,
+            "O2_\u00e9mis_kg": 14.45
+        },
+        {
+            "ann\u00e9e": 52,
+            "CO2_absorb\u00e9_kg": 31.3,
+            "O2_\u00e9mis_kg": 18.1
+        },
+        {
+            "ann\u00e9e": 53,
+            "CO2_absorb\u00e9_kg": 24.96,
+            "O2_\u00e9mis_kg": 17.72
+        },
+        {
+            "ann\u00e9e": 54,
+            "CO2_absorb\u00e9_kg": 22.64,
+            "O2_\u00e9mis_kg": 21.44
+        },
+        {
+            "ann\u00e9e": 55,
+            "CO2_absorb\u00e9_kg": 23.19,
+            "O2_\u00e9mis_kg": 13.16
+        },
+        {
+            "ann\u00e9e": 56,
+            "CO2_absorb\u00e9_kg": 33.32,
+            "O2_\u00e9mis_kg": 16.77
+        },
+        {
+            "ann\u00e9e": 57,
+            "CO2_absorb\u00e9_kg": 28.63,
+            "O2_\u00e9mis_kg": 12.55
+        },
+        {
+            "ann\u00e9e": 58,
+            "CO2_absorb\u00e9_kg": 23.97,
+            "O2_\u00e9mis_kg": 14.27
+        },
+        {
+            "ann\u00e9e": 59,
+            "CO2_absorb\u00e9_kg": 21.39,
+            "O2_\u00e9mis_kg": 20.95
+        },
+        {
+            "ann\u00e9e": 60,
+            "CO2_absorb\u00e9_kg": 28.52,
+            "O2_\u00e9mis_kg": 20.07
+        },
+        {
+            "ann\u00e9e": 61,
+            "CO2_absorb\u00e9_kg": 26.05,
+            "O2_\u00e9mis_kg": 20.02
+        },
+        {
+            "ann\u00e9e": 62,
+            "CO2_absorb\u00e9_kg": 33.74,
+            "O2_\u00e9mis_kg": 19.95
+        },
+        {
+            "ann\u00e9e": 63,
+            "CO2_absorb\u00e9_kg": 20.46,
+            "O2_\u00e9mis_kg": 21.84
+        },
+        {
+            "ann\u00e9e": 64,
+            "CO2_absorb\u00e9_kg": 32.65,
+            "O2_\u00e9mis_kg": 21.71
+        },
+        {
+            "ann\u00e9e": 65,
+            "CO2_absorb\u00e9_kg": 32.15,
+            "O2_\u00e9mis_kg": 20.72
+        },
+        {
+            "ann\u00e9e": 66,
+            "CO2_absorb\u00e9_kg": 33.65,
+            "O2_\u00e9mis_kg": 13.16
+        },
+        {
+            "ann\u00e9e": 67,
+            "CO2_absorb\u00e9_kg": 24.27,
+            "O2_\u00e9mis_kg": 21.75
+        },
+        {
+            "ann\u00e9e": 68,
+            "CO2_absorb\u00e9_kg": 32.42,
+            "O2_\u00e9mis_kg": 15.78
+        },
+        {
+            "ann\u00e9e": 69,
+            "CO2_absorb\u00e9_kg": 33.35,
+            "O2_\u00e9mis_kg": 13.54
+        },
+        {
+            "ann\u00e9e": 70,
+            "CO2_absorb\u00e9_kg": 32.51,
+            "O2_\u00e9mis_kg": 21.44
+        },
+        {
+            "ann\u00e9e": 71,
+            "CO2_absorb\u00e9_kg": 23.1,
+            "O2_\u00e9mis_kg": 14.43
+        },
+        {
+            "ann\u00e9e": 72,
+            "CO2_absorb\u00e9_kg": 26.04,
+            "O2_\u00e9mis_kg": 17.84
+        },
+        {
+            "ann\u00e9e": 73,
+            "CO2_absorb\u00e9_kg": 27.49,
+            "O2_\u00e9mis_kg": 21.84
+        },
+        {
+            "ann\u00e9e": 74,
+            "CO2_absorb\u00e9_kg": 30.68,
+            "O2_\u00e9mis_kg": 16.46
+        },
+        {
+            "ann\u00e9e": 75,
+            "CO2_absorb\u00e9_kg": 24.52,
+            "O2_\u00e9mis_kg": 13.3
+        },
+        {
+            "ann\u00e9e": 76,
+            "CO2_absorb\u00e9_kg": 23.03,
+            "O2_\u00e9mis_kg": 21.17
+        },
+        {
+            "ann\u00e9e": 77,
+            "CO2_absorb\u00e9_kg": 29.24,
+            "O2_\u00e9mis_kg": 19.36
+        },
+        {
+            "ann\u00e9e": 78,
+            "CO2_absorb\u00e9_kg": 28.98,
+            "O2_\u00e9mis_kg": 17.4
+        },
+        {
+            "ann\u00e9e": 79,
+            "CO2_absorb\u00e9_kg": 27.98,
+            "O2_\u00e9mis_kg": 15.51
+        },
+        {
+            "ann\u00e9e": 80,
+            "CO2_absorb\u00e9_kg": 24.11,
+            "O2_\u00e9mis_kg": 14.3
+        },
+        {
+            "ann\u00e9e": 81,
+            "CO2_absorb\u00e9_kg": 27.03,
+            "O2_\u00e9mis_kg": 18.53
+        },
+        {
+            "ann\u00e9e": 82,
+            "CO2_absorb\u00e9_kg": 29.16,
+            "O2_\u00e9mis_kg": 19.65
+        },
+        {
+            "ann\u00e9e": 83,
+            "CO2_absorb\u00e9_kg": 26.27,
+            "O2_\u00e9mis_kg": 19.85
+        },
+        {
+            "ann\u00e9e": 84,
+            "CO2_absorb\u00e9_kg": 31.62,
+            "O2_\u00e9mis_kg": 20.2
+        },
+        {
+            "ann\u00e9e": 85,
+            "CO2_absorb\u00e9_kg": 20.49,
+            "O2_\u00e9mis_kg": 20.64
+        },
+        {
+            "ann\u00e9e": 86,
+            "CO2_absorb\u00e9_kg": 29.91,
+            "O2_\u00e9mis_kg": 21.65
+        },
+        {
+            "ann\u00e9e": 87,
+            "CO2_absorb\u00e9_kg": 33.63,
+            "O2_\u00e9mis_kg": 15.85
+        },
+        {
+            "ann\u00e9e": 88,
+            "CO2_absorb\u00e9_kg": 29.97,
+            "O2_\u00e9mis_kg": 15.58
+        },
+        {
+            "ann\u00e9e": 89,
+            "CO2_absorb\u00e9_kg": 29.47,
+            "O2_\u00e9mis_kg": 18.3
+        },
+        {
+            "ann\u00e9e": 90,
+            "CO2_absorb\u00e9_kg": 32.83,
+            "O2_\u00e9mis_kg": 17.6
+        },
+        {
+            "ann\u00e9e": 91,
+            "CO2_absorb\u00e9_kg": 28.35,
+            "O2_\u00e9mis_kg": 14.57
+        },
+        {
+            "ann\u00e9e": 92,
+            "CO2_absorb\u00e9_kg": 34.4,
+            "O2_\u00e9mis_kg": 16.5
+        },
+        {
+            "ann\u00e9e": 93,
+            "CO2_absorb\u00e9_kg": 27.14,
+            "O2_\u00e9mis_kg": 14.7
+        },
+        {
+            "ann\u00e9e": 94,
+            "CO2_absorb\u00e9_kg": 26.42,
+            "O2_\u00e9mis_kg": 21.66
+        },
+        {
+            "ann\u00e9e": 95,
+            "CO2_absorb\u00e9_kg": 22.39,
+            "O2_\u00e9mis_kg": 16.71
+        },
+        {
+            "ann\u00e9e": 96,
+            "CO2_absorb\u00e9_kg": 25.04,
+            "O2_\u00e9mis_kg": 18.99
+        },
+        {
+            "ann\u00e9e": 97,
+            "CO2_absorb\u00e9_kg": 21.48,
+            "O2_\u00e9mis_kg": 17.3
+        },
+        {
+            "ann\u00e9e": 98,
+            "CO2_absorb\u00e9_kg": 24.87,
+            "O2_\u00e9mis_kg": 13.71
+        },
+        {
+            "ann\u00e9e": 99,
+            "CO2_absorb\u00e9_kg": 29.92,
+            "O2_\u00e9mis_kg": 14.24
+        },
+        {
+            "ann\u00e9e": 100,
+            "CO2_absorb\u00e9_kg": 32.62,
+            "O2_\u00e9mis_kg": 14.22
+        },
+        {
+            "ann\u00e9e": 101,
+            "CO2_absorb\u00e9_kg": 13.64,
+            "O2_\u00e9mis_kg": 17.23
+        },
+        {
+            "ann\u00e9e": 102,
+            "CO2_absorb\u00e9_kg": 10.01,
+            "O2_\u00e9mis_kg": 11.02
+        },
+        {
+            "ann\u00e9e": 103,
+            "CO2_absorb\u00e9_kg": 22.71,
+            "O2_\u00e9mis_kg": 10.15
+        },
+        {
+            "ann\u00e9e": 104,
+            "CO2_absorb\u00e9_kg": 11.62,
+            "O2_\u00e9mis_kg": 9.9
+        },
+        {
+            "ann\u00e9e": 105,
+            "CO2_absorb\u00e9_kg": 24.57,
+            "O2_\u00e9mis_kg": 17.62
+        },
+        {
+            "ann\u00e9e": 106,
+            "CO2_absorb\u00e9_kg": 12.21,
+            "O2_\u00e9mis_kg": 15.06
+        },
+        {
+            "ann\u00e9e": 107,
+            "CO2_absorb\u00e9_kg": 22.38,
+            "O2_\u00e9mis_kg": 10.56
+        },
+        {
+            "ann\u00e9e": 108,
+            "CO2_absorb\u00e9_kg": 11.97,
+            "O2_\u00e9mis_kg": 16.42
+        },
+        {
+            "ann\u00e9e": 109,
+            "CO2_absorb\u00e9_kg": 16.74,
+            "O2_\u00e9mis_kg": 10.61
+        },
+        {
+            "ann\u00e9e": 110,
+            "CO2_absorb\u00e9_kg": 17.79,
+            "O2_\u00e9mis_kg": 8.36
+        },
+        {
+            "ann\u00e9e": 111,
+            "CO2_absorb\u00e9_kg": 14.69,
+            "O2_\u00e9mis_kg": 9.95
+        },
+        {
+            "ann\u00e9e": 112,
+            "CO2_absorb\u00e9_kg": 15.07,
+            "O2_\u00e9mis_kg": 8.25
+        },
+        {
+            "ann\u00e9e": 113,
+            "CO2_absorb\u00e9_kg": 22.56,
+            "O2_\u00e9mis_kg": 15.88
+        },
+        {
+            "ann\u00e9e": 114,
+            "CO2_absorb\u00e9_kg": 14.5,
+            "O2_\u00e9mis_kg": 11.93
+        },
+        {
+            "ann\u00e9e": 115,
+            "CO2_absorb\u00e9_kg": 13.48,
+            "O2_\u00e9mis_kg": 12.73
+        },
+        {
+            "ann\u00e9e": 116,
+            "CO2_absorb\u00e9_kg": 19.64,
+            "O2_\u00e9mis_kg": 10.05
+        },
+        {
+            "ann\u00e9e": 117,
+            "CO2_absorb\u00e9_kg": 17.97,
+            "O2_\u00e9mis_kg": 14.73
+        },
+        {
+            "ann\u00e9e": 118,
+            "CO2_absorb\u00e9_kg": 13.63,
+            "O2_\u00e9mis_kg": 13.89
+        },
+        {
+            "ann\u00e9e": 119,
+            "CO2_absorb\u00e9_kg": 16.55,
+            "O2_\u00e9mis_kg": 12.85
+        },
+        {
+            "ann\u00e9e": 120,
+            "CO2_absorb\u00e9_kg": 13.28,
+            "O2_\u00e9mis_kg": 12.72
+        }
+    ],
+    "sapin": [
+        {
+            "ann\u00e9e": 1,
+            "CO2_absorb\u00e9_kg": 9.28,
+            "O2_\u00e9mis_kg": 5.21
+        },
+        {
+            "ann\u00e9e": 2,
+            "CO2_absorb\u00e9_kg": 7.25,
+            "O2_\u00e9mis_kg": 5.18
+        },
+        {
+            "ann\u00e9e": 3,
+            "CO2_absorb\u00e9_kg": 9.31,
+            "O2_\u00e9mis_kg": 2.57
+        },
+        {
+            "ann\u00e9e": 4,
+            "CO2_absorb\u00e9_kg": 9.04,
+            "O2_\u00e9mis_kg": 7.45
+        },
+        {
+            "ann\u00e9e": 5,
+            "CO2_absorb\u00e9_kg": 10.52,
+            "O2_\u00e9mis_kg": 4.24
+        },
+        {
+            "ann\u00e9e": 6,
+            "CO2_absorb\u00e9_kg": 3.12,
+            "O2_\u00e9mis_kg": 7.6
+        },
+        {
+            "ann\u00e9e": 7,
+            "CO2_absorb\u00e9_kg": 6.56,
+            "O2_\u00e9mis_kg": 7.74
+        },
+        {
+            "ann\u00e9e": 8,
+            "CO2_absorb\u00e9_kg": 10.08,
+            "O2_\u00e9mis_kg": 3.48
+        },
+        {
+            "ann\u00e9e": 9,
+            "CO2_absorb\u00e9_kg": 5.36,
+            "O2_\u00e9mis_kg": 5.26
+        },
+        {
+            "ann\u00e9e": 10,
+            "CO2_absorb\u00e9_kg": 8.76,
+            "O2_\u00e9mis_kg": 6.37
+        },
+        {
+            "ann\u00e9e": 11,
+            "CO2_absorb\u00e9_kg": 29.01,
+            "O2_\u00e9mis_kg": 16.22
+        },
+        {
+            "ann\u00e9e": 12,
+            "CO2_absorb\u00e9_kg": 12.1,
+            "O2_\u00e9mis_kg": 13.39
+        },
+        {
+            "ann\u00e9e": 13,
+            "CO2_absorb\u00e9_kg": 26.47,
+            "O2_\u00e9mis_kg": 13.14
+        },
+        {
+            "ann\u00e9e": 14,
+            "CO2_absorb\u00e9_kg": 28.27,
+            "O2_\u00e9mis_kg": 17.82
+        },
+        {
+            "ann\u00e9e": 15,
+            "CO2_absorb\u00e9_kg": 19.21,
+            "O2_\u00e9mis_kg": 8.59
+        },
+        {
+            "ann\u00e9e": 16,
+            "CO2_absorb\u00e9_kg": 16.64,
+            "O2_\u00e9mis_kg": 13.75
+        },
+        {
+            "ann\u00e9e": 17,
+            "CO2_absorb\u00e9_kg": 29.25,
+            "O2_\u00e9mis_kg": 10.15
+        },
+        {
+            "ann\u00e9e": 18,
+            "CO2_absorb\u00e9_kg": 29.18,
+            "O2_\u00e9mis_kg": 12.57
+        },
+        {
+            "ann\u00e9e": 19,
+            "CO2_absorb\u00e9_kg": 18.98,
+            "O2_\u00e9mis_kg": 10.5
+        },
+        {
+            "ann\u00e9e": 20,
+            "CO2_absorb\u00e9_kg": 19.12,
+            "O2_\u00e9mis_kg": 8.01
+        },
+        {
+            "ann\u00e9e": 21,
+            "CO2_absorb\u00e9_kg": 15.39,
+            "O2_\u00e9mis_kg": 10.7
+        },
+        {
+            "ann\u00e9e": 22,
+            "CO2_absorb\u00e9_kg": 20.02,
+            "O2_\u00e9mis_kg": 14.2
+        },
+        {
+            "ann\u00e9e": 23,
+            "CO2_absorb\u00e9_kg": 16.85,
+            "O2_\u00e9mis_kg": 15.65
+        },
+        {
+            "ann\u00e9e": 24,
+            "CO2_absorb\u00e9_kg": 28.12,
+            "O2_\u00e9mis_kg": 14.25
+        },
+        {
+            "ann\u00e9e": 25,
+            "CO2_absorb\u00e9_kg": 25.87,
+            "O2_\u00e9mis_kg": 14.24
+        },
+        {
+            "ann\u00e9e": 26,
+            "CO2_absorb\u00e9_kg": 20.04,
+            "O2_\u00e9mis_kg": 14.53
+        },
+        {
+            "ann\u00e9e": 27,
+            "CO2_absorb\u00e9_kg": 23.68,
+            "O2_\u00e9mis_kg": 14.02
+        },
+        {
+            "ann\u00e9e": 28,
+            "CO2_absorb\u00e9_kg": 16.22,
+            "O2_\u00e9mis_kg": 8.86
+        },
+        {
+            "ann\u00e9e": 29,
+            "CO2_absorb\u00e9_kg": 16.07,
+            "O2_\u00e9mis_kg": 16.96
+        },
+        {
+            "ann\u00e9e": 30,
+            "CO2_absorb\u00e9_kg": 19.89,
+            "O2_\u00e9mis_kg": 17.82
+        },
+        {
+            "ann\u00e9e": 31,
+            "CO2_absorb\u00e9_kg": 22.57,
+            "O2_\u00e9mis_kg": 11.66
+        },
+        {
+            "ann\u00e9e": 32,
+            "CO2_absorb\u00e9_kg": 12.76,
+            "O2_\u00e9mis_kg": 10.61
+        },
+        {
+            "ann\u00e9e": 33,
+            "CO2_absorb\u00e9_kg": 28.72,
+            "O2_\u00e9mis_kg": 15.61
+        },
+        {
+            "ann\u00e9e": 34,
+            "CO2_absorb\u00e9_kg": 18.27,
+            "O2_\u00e9mis_kg": 8.84
+        },
+        {
+            "ann\u00e9e": 35,
+            "CO2_absorb\u00e9_kg": 12.12,
+            "O2_\u00e9mis_kg": 17.82
+        },
+        {
+            "ann\u00e9e": 36,
+            "CO2_absorb\u00e9_kg": 17.94,
+            "O2_\u00e9mis_kg": 13.15
+        },
+        {
+            "ann\u00e9e": 37,
+            "CO2_absorb\u00e9_kg": 25.72,
+            "O2_\u00e9mis_kg": 13.16
+        },
+        {
+            "ann\u00e9e": 38,
+            "CO2_absorb\u00e9_kg": 22.15,
+            "O2_\u00e9mis_kg": 15.4
+        },
+        {
+            "ann\u00e9e": 39,
+            "CO2_absorb\u00e9_kg": 27.36,
+            "O2_\u00e9mis_kg": 9.94
+        },
+        {
+            "ann\u00e9e": 40,
+            "CO2_absorb\u00e9_kg": 15.45,
+            "O2_\u00e9mis_kg": 16.29
+        },
+        {
+            "ann\u00e9e": 41,
+            "CO2_absorb\u00e9_kg": 15.37,
+            "O2_\u00e9mis_kg": 8.41
+        },
+        {
+            "ann\u00e9e": 42,
+            "CO2_absorb\u00e9_kg": 21.61,
+            "O2_\u00e9mis_kg": 15.78
+        },
+        {
+            "ann\u00e9e": 43,
+            "CO2_absorb\u00e9_kg": 18.16,
+            "O2_\u00e9mis_kg": 17.66
+        },
+        {
+            "ann\u00e9e": 44,
+            "CO2_absorb\u00e9_kg": 17.42,
+            "O2_\u00e9mis_kg": 16.25
+        },
+        {
+            "ann\u00e9e": 45,
+            "CO2_absorb\u00e9_kg": 12.19,
+            "O2_\u00e9mis_kg": 12.29
+        },
+        {
+            "ann\u00e9e": 46,
+            "CO2_absorb\u00e9_kg": 22.11,
+            "O2_\u00e9mis_kg": 11.26
+        },
+        {
+            "ann\u00e9e": 47,
+            "CO2_absorb\u00e9_kg": 18.09,
+            "O2_\u00e9mis_kg": 10.51
+        },
+        {
+            "ann\u00e9e": 48,
+            "CO2_absorb\u00e9_kg": 21.13,
+            "O2_\u00e9mis_kg": 14.71
+        },
+        {
+            "ann\u00e9e": 49,
+            "CO2_absorb\u00e9_kg": 28.21,
+            "O2_\u00e9mis_kg": 12.75
+        },
+        {
+            "ann\u00e9e": 50,
+            "CO2_absorb\u00e9_kg": 14.99,
+            "O2_\u00e9mis_kg": 8.55
+        },
+        {
+            "ann\u00e9e": 51,
+            "CO2_absorb\u00e9_kg": 31.37,
+            "O2_\u00e9mis_kg": 27.78
+        },
+        {
+            "ann\u00e9e": 52,
+            "CO2_absorb\u00e9_kg": 34.93,
+            "O2_\u00e9mis_kg": 18.23
+        },
+        {
+            "ann\u00e9e": 53,
+            "CO2_absorb\u00e9_kg": 45.95,
+            "O2_\u00e9mis_kg": 24.03
+        },
+        {
+            "ann\u00e9e": 54,
+            "CO2_absorb\u00e9_kg": 43.83,
+            "O2_\u00e9mis_kg": 20.85
+        },
+        {
+            "ann\u00e9e": 55,
+            "CO2_absorb\u00e9_kg": 38.87,
+            "O2_\u00e9mis_kg": 25.92
+        },
+        {
+            "ann\u00e9e": 56,
+            "CO2_absorb\u00e9_kg": 30.79,
+            "O2_\u00e9mis_kg": 18.21
+        },
+        {
+            "ann\u00e9e": 57,
+            "CO2_absorb\u00e9_kg": 36.91,
+            "O2_\u00e9mis_kg": 19.57
+        },
+        {
+            "ann\u00e9e": 58,
+            "CO2_absorb\u00e9_kg": 48.21,
+            "O2_\u00e9mis_kg": 29.53
+        },
+        {
+            "ann\u00e9e": 59,
+            "CO2_absorb\u00e9_kg": 31.49,
+            "O2_\u00e9mis_kg": 26.84
+        },
+        {
+            "ann\u00e9e": 60,
+            "CO2_absorb\u00e9_kg": 34.06,
+            "O2_\u00e9mis_kg": 26.23
+        },
+        {
+            "ann\u00e9e": 61,
+            "CO2_absorb\u00e9_kg": 33.19,
+            "O2_\u00e9mis_kg": 18.28
+        },
+        {
+            "ann\u00e9e": 62,
+            "CO2_absorb\u00e9_kg": 40.9,
+            "O2_\u00e9mis_kg": 20.95
+        },
+        {
+            "ann\u00e9e": 63,
+            "CO2_absorb\u00e9_kg": 33.06,
+            "O2_\u00e9mis_kg": 26.05
+        },
+        {
+            "ann\u00e9e": 64,
+            "CO2_absorb\u00e9_kg": 30.63,
+            "O2_\u00e9mis_kg": 19.86
+        },
+        {
+            "ann\u00e9e": 65,
+            "CO2_absorb\u00e9_kg": 34.38,
+            "O2_\u00e9mis_kg": 19.71
+        },
+        {
+            "ann\u00e9e": 66,
+            "CO2_absorb\u00e9_kg": 41.1,
+            "O2_\u00e9mis_kg": 22.76
+        },
+        {
+            "ann\u00e9e": 67,
+            "CO2_absorb\u00e9_kg": 31.75,
+            "O2_\u00e9mis_kg": 25.27
+        },
+        {
+            "ann\u00e9e": 68,
+            "CO2_absorb\u00e9_kg": 39.3,
+            "O2_\u00e9mis_kg": 23.3
+        },
+        {
+            "ann\u00e9e": 69,
+            "CO2_absorb\u00e9_kg": 35.7,
+            "O2_\u00e9mis_kg": 26.72
+        },
+        {
+            "ann\u00e9e": 70,
+            "CO2_absorb\u00e9_kg": 45.2,
+            "O2_\u00e9mis_kg": 19.95
+        },
+        {
+            "ann\u00e9e": 71,
+            "CO2_absorb\u00e9_kg": 48.25,
+            "O2_\u00e9mis_kg": 24.83
+        },
+        {
+            "ann\u00e9e": 72,
+            "CO2_absorb\u00e9_kg": 40.78,
+            "O2_\u00e9mis_kg": 24.01
+        },
+        {
+            "ann\u00e9e": 73,
+            "CO2_absorb\u00e9_kg": 35.47,
+            "O2_\u00e9mis_kg": 20.69
+        },
+        {
+            "ann\u00e9e": 74,
+            "CO2_absorb\u00e9_kg": 30.82,
+            "O2_\u00e9mis_kg": 25.73
+        },
+        {
+            "ann\u00e9e": 75,
+            "CO2_absorb\u00e9_kg": 30.41,
+            "O2_\u00e9mis_kg": 20.98
+        },
+        {
+            "ann\u00e9e": 76,
+            "CO2_absorb\u00e9_kg": 49.09,
+            "O2_\u00e9mis_kg": 27.47
+        },
+        {
+            "ann\u00e9e": 77,
+            "CO2_absorb\u00e9_kg": 47.51,
+            "O2_\u00e9mis_kg": 25.2
+        },
+        {
+            "ann\u00e9e": 78,
+            "CO2_absorb\u00e9_kg": 46.38,
+            "O2_\u00e9mis_kg": 18.24
+        },
+        {
+            "ann\u00e9e": 79,
+            "CO2_absorb\u00e9_kg": 44.7,
+            "O2_\u00e9mis_kg": 24.38
+        },
+        {
+            "ann\u00e9e": 80,
+            "CO2_absorb\u00e9_kg": 34.32,
+            "O2_\u00e9mis_kg": 22.39
+        },
+        {
+            "ann\u00e9e": 81,
+            "CO2_absorb\u00e9_kg": 48.66,
+            "O2_\u00e9mis_kg": 22.09
+        },
+        {
+            "ann\u00e9e": 82,
+            "CO2_absorb\u00e9_kg": 37.17,
+            "O2_\u00e9mis_kg": 27.46
+        },
+        {
+            "ann\u00e9e": 83,
+            "CO2_absorb\u00e9_kg": 40.34,
+            "O2_\u00e9mis_kg": 19.09
+        },
+        {
+            "ann\u00e9e": 84,
+            "CO2_absorb\u00e9_kg": 49.36,
+            "O2_\u00e9mis_kg": 18.29
+        },
+        {
+            "ann\u00e9e": 85,
+            "CO2_absorb\u00e9_kg": 32.39,
+            "O2_\u00e9mis_kg": 23.58
+        },
+        {
+            "ann\u00e9e": 86,
+            "CO2_absorb\u00e9_kg": 49.0,
+            "O2_\u00e9mis_kg": 24.18
+        },
+        {
+            "ann\u00e9e": 87,
+            "CO2_absorb\u00e9_kg": 30.81,
+            "O2_\u00e9mis_kg": 28.88
+        },
+        {
+            "ann\u00e9e": 88,
+            "CO2_absorb\u00e9_kg": 39.65,
+            "O2_\u00e9mis_kg": 24.14
+        },
+        {
+            "ann\u00e9e": 89,
+            "CO2_absorb\u00e9_kg": 37.13,
+            "O2_\u00e9mis_kg": 22.86
+        },
+        {
+            "ann\u00e9e": 90,
+            "CO2_absorb\u00e9_kg": 37.65,
+            "O2_\u00e9mis_kg": 29.28
+        },
+        {
+            "ann\u00e9e": 91,
+            "CO2_absorb\u00e9_kg": 39.34,
+            "O2_\u00e9mis_kg": 28.38
+        },
+        {
+            "ann\u00e9e": 92,
+            "CO2_absorb\u00e9_kg": 34.19,
+            "O2_\u00e9mis_kg": 27.58
+        },
+        {
+            "ann\u00e9e": 93,
+            "CO2_absorb\u00e9_kg": 36.96,
+            "O2_\u00e9mis_kg": 24.65
+        },
+        {
+            "ann\u00e9e": 94,
+            "CO2_absorb\u00e9_kg": 39.74,
+            "O2_\u00e9mis_kg": 21.54
+        },
+        {
+            "ann\u00e9e": 95,
+            "CO2_absorb\u00e9_kg": 46.47,
+            "O2_\u00e9mis_kg": 21.48
+        },
+        {
+            "ann\u00e9e": 96,
+            "CO2_absorb\u00e9_kg": 30.79,
+            "O2_\u00e9mis_kg": 20.94
+        },
+        {
+            "ann\u00e9e": 97,
+            "CO2_absorb\u00e9_kg": 44.82,
+            "O2_\u00e9mis_kg": 19.42
+        },
+        {
+            "ann\u00e9e": 98,
+            "CO2_absorb\u00e9_kg": 38.32,
+            "O2_\u00e9mis_kg": 20.46
+        },
+        {
+            "ann\u00e9e": 99,
+            "CO2_absorb\u00e9_kg": 49.56,
+            "O2_\u00e9mis_kg": 28.91
+        },
+        {
+            "ann\u00e9e": 100,
+            "CO2_absorb\u00e9_kg": 32.33,
+            "O2_\u00e9mis_kg": 27.7
+        },
+        {
+            "ann\u00e9e": 101,
+            "CO2_absorb\u00e9_kg": 48.51,
+            "O2_\u00e9mis_kg": 27.7
+        },
+        {
+            "ann\u00e9e": 102,
+            "CO2_absorb\u00e9_kg": 36.71,
+            "O2_\u00e9mis_kg": 24.47
+        },
+        {
+            "ann\u00e9e": 103,
+            "CO2_absorb\u00e9_kg": 30.74,
+            "O2_\u00e9mis_kg": 24.83
+        },
+        {
+            "ann\u00e9e": 104,
+            "CO2_absorb\u00e9_kg": 42.04,
+            "O2_\u00e9mis_kg": 25.6
+        },
+        {
+            "ann\u00e9e": 105,
+            "CO2_absorb\u00e9_kg": 40.49,
+            "O2_\u00e9mis_kg": 23.3
+        },
+        {
+            "ann\u00e9e": 106,
+            "CO2_absorb\u00e9_kg": 30.63,
+            "O2_\u00e9mis_kg": 18.62
+        },
+        {
+            "ann\u00e9e": 107,
+            "CO2_absorb\u00e9_kg": 38.95,
+            "O2_\u00e9mis_kg": 26.55
+        },
+        {
+            "ann\u00e9e": 108,
+            "CO2_absorb\u00e9_kg": 38.39,
+            "O2_\u00e9mis_kg": 28.31
+        },
+        {
+            "ann\u00e9e": 109,
+            "CO2_absorb\u00e9_kg": 38.33,
+            "O2_\u00e9mis_kg": 28.28
+        },
+        {
+            "ann\u00e9e": 110,
+            "CO2_absorb\u00e9_kg": 33.5,
+            "O2_\u00e9mis_kg": 28.62
+        },
+        {
+            "ann\u00e9e": 111,
+            "CO2_absorb\u00e9_kg": 33.16,
+            "O2_\u00e9mis_kg": 26.92
+        },
+        {
+            "ann\u00e9e": 112,
+            "CO2_absorb\u00e9_kg": 36.67,
+            "O2_\u00e9mis_kg": 20.32
+        },
+        {
+            "ann\u00e9e": 113,
+            "CO2_absorb\u00e9_kg": 38.19,
+            "O2_\u00e9mis_kg": 22.59
+        },
+        {
+            "ann\u00e9e": 114,
+            "CO2_absorb\u00e9_kg": 49.85,
+            "O2_\u00e9mis_kg": 19.18
+        },
+        {
+            "ann\u00e9e": 115,
+            "CO2_absorb\u00e9_kg": 32.43,
+            "O2_\u00e9mis_kg": 18.15
+        },
+        {
+            "ann\u00e9e": 116,
+            "CO2_absorb\u00e9_kg": 37.11,
+            "O2_\u00e9mis_kg": 29.09
+        },
+        {
+            "ann\u00e9e": 117,
+            "CO2_absorb\u00e9_kg": 41.49,
+            "O2_\u00e9mis_kg": 21.77
+        },
+        {
+            "ann\u00e9e": 118,
+            "CO2_absorb\u00e9_kg": 43.59,
+            "O2_\u00e9mis_kg": 18.94
+        },
+        {
+            "ann\u00e9e": 119,
+            "CO2_absorb\u00e9_kg": 40.35,
+            "O2_\u00e9mis_kg": 29.93
+        },
+        {
+            "ann\u00e9e": 120,
+            "CO2_absorb\u00e9_kg": 43.28,
+            "O2_\u00e9mis_kg": 25.45
+        },
+        {
+            "ann\u00e9e": 121,
+            "CO2_absorb\u00e9_kg": 35.87,
+            "O2_\u00e9mis_kg": 27.86
+        },
+        {
+            "ann\u00e9e": 122,
+            "CO2_absorb\u00e9_kg": 44.42,
+            "O2_\u00e9mis_kg": 20.46
+        },
+        {
+            "ann\u00e9e": 123,
+            "CO2_absorb\u00e9_kg": 44.2,
+            "O2_\u00e9mis_kg": 22.43
+        },
+        {
+            "ann\u00e9e": 124,
+            "CO2_absorb\u00e9_kg": 40.77,
+            "O2_\u00e9mis_kg": 19.85
+        },
+        {
+            "ann\u00e9e": 125,
+            "CO2_absorb\u00e9_kg": 42.66,
+            "O2_\u00e9mis_kg": 27.43
+        },
+        {
+            "ann\u00e9e": 126,
+            "CO2_absorb\u00e9_kg": 39.71,
+            "O2_\u00e9mis_kg": 23.57
+        },
+        {
+            "ann\u00e9e": 127,
+            "CO2_absorb\u00e9_kg": 30.52,
+            "O2_\u00e9mis_kg": 23.4
+        },
+        {
+            "ann\u00e9e": 128,
+            "CO2_absorb\u00e9_kg": 45.88,
+            "O2_\u00e9mis_kg": 29.59
+        },
+        {
+            "ann\u00e9e": 129,
+            "CO2_absorb\u00e9_kg": 47.7,
+            "O2_\u00e9mis_kg": 20.78
+        },
+        {
+            "ann\u00e9e": 130,
+            "CO2_absorb\u00e9_kg": 42.57,
+            "O2_\u00e9mis_kg": 25.63
+        },
+        {
+            "ann\u00e9e": 131,
+            "CO2_absorb\u00e9_kg": 41.51,
+            "O2_\u00e9mis_kg": 24.65
+        },
+        {
+            "ann\u00e9e": 132,
+            "CO2_absorb\u00e9_kg": 39.15,
+            "O2_\u00e9mis_kg": 29.36
+        },
+        {
+            "ann\u00e9e": 133,
+            "CO2_absorb\u00e9_kg": 47.84,
+            "O2_\u00e9mis_kg": 20.69
+        },
+        {
+            "ann\u00e9e": 134,
+            "CO2_absorb\u00e9_kg": 42.06,
+            "O2_\u00e9mis_kg": 20.42
+        },
+        {
+            "ann\u00e9e": 135,
+            "CO2_absorb\u00e9_kg": 36.64,
+            "O2_\u00e9mis_kg": 28.88
+        },
+        {
+            "ann\u00e9e": 136,
+            "CO2_absorb\u00e9_kg": 43.48,
+            "O2_\u00e9mis_kg": 23.88
+        },
+        {
+            "ann\u00e9e": 137,
+            "CO2_absorb\u00e9_kg": 39.14,
+            "O2_\u00e9mis_kg": 24.87
+        },
+        {
+            "ann\u00e9e": 138,
+            "CO2_absorb\u00e9_kg": 30.61,
+            "O2_\u00e9mis_kg": 23.7
+        },
+        {
+            "ann\u00e9e": 139,
+            "CO2_absorb\u00e9_kg": 44.0,
+            "O2_\u00e9mis_kg": 22.69
+        },
+        {
+            "ann\u00e9e": 140,
+            "CO2_absorb\u00e9_kg": 47.0,
+            "O2_\u00e9mis_kg": 23.04
+        },
+        {
+            "ann\u00e9e": 141,
+            "CO2_absorb\u00e9_kg": 41.0,
+            "O2_\u00e9mis_kg": 27.82
+        },
+        {
+            "ann\u00e9e": 142,
+            "CO2_absorb\u00e9_kg": 49.02,
+            "O2_\u00e9mis_kg": 29.41
+        },
+        {
+            "ann\u00e9e": 143,
+            "CO2_absorb\u00e9_kg": 31.41,
+            "O2_\u00e9mis_kg": 21.77
+        },
+        {
+            "ann\u00e9e": 144,
+            "CO2_absorb\u00e9_kg": 39.86,
+            "O2_\u00e9mis_kg": 22.07
+        },
+        {
+            "ann\u00e9e": 145,
+            "CO2_absorb\u00e9_kg": 41.22,
+            "O2_\u00e9mis_kg": 28.79
+        },
+        {
+            "ann\u00e9e": 146,
+            "CO2_absorb\u00e9_kg": 39.13,
+            "O2_\u00e9mis_kg": 27.67
+        },
+        {
+            "ann\u00e9e": 147,
+            "CO2_absorb\u00e9_kg": 33.78,
+            "O2_\u00e9mis_kg": 19.71
+        },
+        {
+            "ann\u00e9e": 148,
+            "CO2_absorb\u00e9_kg": 39.96,
+            "O2_\u00e9mis_kg": 19.52
+        },
+        {
+            "ann\u00e9e": 149,
+            "CO2_absorb\u00e9_kg": 38.11,
+            "O2_\u00e9mis_kg": 22.09
+        },
+        {
+            "ann\u00e9e": 150,
+            "CO2_absorb\u00e9_kg": 44.08,
+            "O2_\u00e9mis_kg": 25.55
+        },
+        {
+            "ann\u00e9e": 151,
+            "CO2_absorb\u00e9_kg": 30.76,
+            "O2_\u00e9mis_kg": 29.08
+        },
+        {
+            "ann\u00e9e": 152,
+            "CO2_absorb\u00e9_kg": 31.63,
+            "O2_\u00e9mis_kg": 23.16
+        },
+        {
+            "ann\u00e9e": 153,
+            "CO2_absorb\u00e9_kg": 44.5,
+            "O2_\u00e9mis_kg": 23.3
+        },
+        {
+            "ann\u00e9e": 154,
+            "CO2_absorb\u00e9_kg": 43.38,
+            "O2_\u00e9mis_kg": 23.62
+        },
+        {
+            "ann\u00e9e": 155,
+            "CO2_absorb\u00e9_kg": 37.2,
+            "O2_\u00e9mis_kg": 21.27
+        },
+        {
+            "ann\u00e9e": 156,
+            "CO2_absorb\u00e9_kg": 47.47,
+            "O2_\u00e9mis_kg": 20.73
+        },
+        {
+            "ann\u00e9e": 157,
+            "CO2_absorb\u00e9_kg": 44.51,
+            "O2_\u00e9mis_kg": 23.48
+        },
+        {
+            "ann\u00e9e": 158,
+            "CO2_absorb\u00e9_kg": 44.99,
+            "O2_\u00e9mis_kg": 26.95
+        },
+        {
+            "ann\u00e9e": 159,
+            "CO2_absorb\u00e9_kg": 43.21,
+            "O2_\u00e9mis_kg": 28.77
+        },
+        {
+            "ann\u00e9e": 160,
+            "CO2_absorb\u00e9_kg": 36.07,
+            "O2_\u00e9mis_kg": 24.56
+        },
+        {
+            "ann\u00e9e": 161,
+            "CO2_absorb\u00e9_kg": 37.92,
+            "O2_\u00e9mis_kg": 27.12
+        },
+        {
+            "ann\u00e9e": 162,
+            "CO2_absorb\u00e9_kg": 44.08,
+            "O2_\u00e9mis_kg": 19.82
+        },
+        {
+            "ann\u00e9e": 163,
+            "CO2_absorb\u00e9_kg": 41.67,
+            "O2_\u00e9mis_kg": 24.97
+        },
+        {
+            "ann\u00e9e": 164,
+            "CO2_absorb\u00e9_kg": 44.35,
+            "O2_\u00e9mis_kg": 29.97
+        },
+        {
+            "ann\u00e9e": 165,
+            "CO2_absorb\u00e9_kg": 39.08,
+            "O2_\u00e9mis_kg": 20.13
+        },
+        {
+            "ann\u00e9e": 166,
+            "CO2_absorb\u00e9_kg": 30.24,
+            "O2_\u00e9mis_kg": 18.86
+        },
+        {
+            "ann\u00e9e": 167,
+            "CO2_absorb\u00e9_kg": 42.46,
+            "O2_\u00e9mis_kg": 19.04
+        },
+        {
+            "ann\u00e9e": 168,
+            "CO2_absorb\u00e9_kg": 39.55,
+            "O2_\u00e9mis_kg": 23.66
+        },
+        {
+            "ann\u00e9e": 169,
+            "CO2_absorb\u00e9_kg": 35.94,
+            "O2_\u00e9mis_kg": 29.91
+        },
+        {
+            "ann\u00e9e": 170,
+            "CO2_absorb\u00e9_kg": 33.84,
+            "O2_\u00e9mis_kg": 20.93
+        },
+        {
+            "ann\u00e9e": 171,
+            "CO2_absorb\u00e9_kg": 35.05,
+            "O2_\u00e9mis_kg": 19.02
+        },
+        {
+            "ann\u00e9e": 172,
+            "CO2_absorb\u00e9_kg": 41.13,
+            "O2_\u00e9mis_kg": 29.58
+        },
+        {
+            "ann\u00e9e": 173,
+            "CO2_absorb\u00e9_kg": 37.48,
+            "O2_\u00e9mis_kg": 20.84
+        },
+        {
+            "ann\u00e9e": 174,
+            "CO2_absorb\u00e9_kg": 47.32,
+            "O2_\u00e9mis_kg": 29.04
+        },
+        {
+            "ann\u00e9e": 175,
+            "CO2_absorb\u00e9_kg": 36.21,
+            "O2_\u00e9mis_kg": 26.58
+        },
+        {
+            "ann\u00e9e": 176,
+            "CO2_absorb\u00e9_kg": 39.79,
+            "O2_\u00e9mis_kg": 25.81
+        },
+        {
+            "ann\u00e9e": 177,
+            "CO2_absorb\u00e9_kg": 34.87,
+            "O2_\u00e9mis_kg": 21.78
+        },
+        {
+            "ann\u00e9e": 178,
+            "CO2_absorb\u00e9_kg": 35.37,
+            "O2_\u00e9mis_kg": 22.17
+        },
+        {
+            "ann\u00e9e": 179,
+            "CO2_absorb\u00e9_kg": 48.53,
+            "O2_\u00e9mis_kg": 28.38
+        },
+        {
+            "ann\u00e9e": 180,
+            "CO2_absorb\u00e9_kg": 49.14,
+            "O2_\u00e9mis_kg": 27.72
+        },
+        {
+            "ann\u00e9e": 181,
+            "CO2_absorb\u00e9_kg": 47.39,
+            "O2_\u00e9mis_kg": 27.59
+        },
+        {
+            "ann\u00e9e": 182,
+            "CO2_absorb\u00e9_kg": 39.98,
+            "O2_\u00e9mis_kg": 25.42
+        },
+        {
+            "ann\u00e9e": 183,
+            "CO2_absorb\u00e9_kg": 42.36,
+            "O2_\u00e9mis_kg": 21.13
+        },
+        {
+            "ann\u00e9e": 184,
+            "CO2_absorb\u00e9_kg": 36.72,
+            "O2_\u00e9mis_kg": 18.2
+        },
+        {
+            "ann\u00e9e": 185,
+            "CO2_absorb\u00e9_kg": 43.84,
+            "O2_\u00e9mis_kg": 21.59
+        },
+        {
+            "ann\u00e9e": 186,
+            "CO2_absorb\u00e9_kg": 35.53,
+            "O2_\u00e9mis_kg": 23.65
+        },
+        {
+            "ann\u00e9e": 187,
+            "CO2_absorb\u00e9_kg": 44.01,
+            "O2_\u00e9mis_kg": 25.59
+        },
+        {
+            "ann\u00e9e": 188,
+            "CO2_absorb\u00e9_kg": 32.2,
+            "O2_\u00e9mis_kg": 25.72
+        },
+        {
+            "ann\u00e9e": 189,
+            "CO2_absorb\u00e9_kg": 34.5,
+            "O2_\u00e9mis_kg": 23.02
+        },
+        {
+            "ann\u00e9e": 190,
+            "CO2_absorb\u00e9_kg": 42.23,
+            "O2_\u00e9mis_kg": 21.11
+        },
+        {
+            "ann\u00e9e": 191,
+            "CO2_absorb\u00e9_kg": 30.52,
+            "O2_\u00e9mis_kg": 23.06
+        },
+        {
+            "ann\u00e9e": 192,
+            "CO2_absorb\u00e9_kg": 38.06,
+            "O2_\u00e9mis_kg": 22.97
+        },
+        {
+            "ann\u00e9e": 193,
+            "CO2_absorb\u00e9_kg": 47.36,
+            "O2_\u00e9mis_kg": 26.65
+        },
+        {
+            "ann\u00e9e": 194,
+            "CO2_absorb\u00e9_kg": 48.32,
+            "O2_\u00e9mis_kg": 19.93
+        },
+        {
+            "ann\u00e9e": 195,
+            "CO2_absorb\u00e9_kg": 45.92,
+            "O2_\u00e9mis_kg": 29.87
+        },
+        {
+            "ann\u00e9e": 196,
+            "CO2_absorb\u00e9_kg": 32.26,
+            "O2_\u00e9mis_kg": 25.26
+        },
+        {
+            "ann\u00e9e": 197,
+            "CO2_absorb\u00e9_kg": 42.61,
+            "O2_\u00e9mis_kg": 26.08
+        },
+        {
+            "ann\u00e9e": 198,
+            "CO2_absorb\u00e9_kg": 47.53,
+            "O2_\u00e9mis_kg": 29.13
+        },
+        {
+            "ann\u00e9e": 199,
+            "CO2_absorb\u00e9_kg": 49.45,
+            "O2_\u00e9mis_kg": 27.42
+        },
+        {
+            "ann\u00e9e": 200,
+            "CO2_absorb\u00e9_kg": 45.19,
+            "O2_\u00e9mis_kg": 18.12
+        },
+        {
+            "ann\u00e9e": 201,
+            "CO2_absorb\u00e9_kg": 39.52,
+            "O2_\u00e9mis_kg": 21.42
+        },
+        {
+            "ann\u00e9e": 202,
+            "CO2_absorb\u00e9_kg": 24.52,
+            "O2_\u00e9mis_kg": 18.79
+        },
+        {
+            "ann\u00e9e": 203,
+            "CO2_absorb\u00e9_kg": 26.48,
+            "O2_\u00e9mis_kg": 21.91
+        },
+        {
+            "ann\u00e9e": 204,
+            "CO2_absorb\u00e9_kg": 33.33,
+            "O2_\u00e9mis_kg": 20.88
+        },
+        {
+            "ann\u00e9e": 205,
+            "CO2_absorb\u00e9_kg": 33.81,
+            "O2_\u00e9mis_kg": 12.71
+        },
+        {
+            "ann\u00e9e": 206,
+            "CO2_absorb\u00e9_kg": 39.88,
+            "O2_\u00e9mis_kg": 13.8
+        },
+        {
+            "ann\u00e9e": 207,
+            "CO2_absorb\u00e9_kg": 33.21,
+            "O2_\u00e9mis_kg": 13.17
+        },
+        {
+            "ann\u00e9e": 208,
+            "CO2_absorb\u00e9_kg": 27.01,
+            "O2_\u00e9mis_kg": 20.22
+        },
+        {
+            "ann\u00e9e": 209,
+            "CO2_absorb\u00e9_kg": 22.0,
+            "O2_\u00e9mis_kg": 12.8
+        },
+        {
+            "ann\u00e9e": 210,
+            "CO2_absorb\u00e9_kg": 23.64,
+            "O2_\u00e9mis_kg": 22.94
+        },
+        {
+            "ann\u00e9e": 211,
+            "CO2_absorb\u00e9_kg": 24.86,
+            "O2_\u00e9mis_kg": 17.34
+        },
+        {
+            "ann\u00e9e": 212,
+            "CO2_absorb\u00e9_kg": 38.16,
+            "O2_\u00e9mis_kg": 18.47
+        },
+        {
+            "ann\u00e9e": 213,
+            "CO2_absorb\u00e9_kg": 37.95,
+            "O2_\u00e9mis_kg": 24.08
+        },
+        {
+            "ann\u00e9e": 214,
+            "CO2_absorb\u00e9_kg": 33.89,
+            "O2_\u00e9mis_kg": 18.61
+        },
+        {
+            "ann\u00e9e": 215,
+            "CO2_absorb\u00e9_kg": 34.78,
+            "O2_\u00e9mis_kg": 19.2
+        },
+        {
+            "ann\u00e9e": 216,
+            "CO2_absorb\u00e9_kg": 39.62,
+            "O2_\u00e9mis_kg": 14.23
+        },
+        {
+            "ann\u00e9e": 217,
+            "CO2_absorb\u00e9_kg": 24.56,
+            "O2_\u00e9mis_kg": 17.89
+        },
+        {
+            "ann\u00e9e": 218,
+            "CO2_absorb\u00e9_kg": 22.15,
+            "O2_\u00e9mis_kg": 21.7
+        },
+        {
+            "ann\u00e9e": 219,
+            "CO2_absorb\u00e9_kg": 26.42,
+            "O2_\u00e9mis_kg": 20.4
+        },
+        {
+            "ann\u00e9e": 220,
+            "CO2_absorb\u00e9_kg": 23.27,
+            "O2_\u00e9mis_kg": 21.88
+        },
+        {
+            "ann\u00e9e": 221,
+            "CO2_absorb\u00e9_kg": 27.34,
+            "O2_\u00e9mis_kg": 22.88
+        },
+        {
+            "ann\u00e9e": 222,
+            "CO2_absorb\u00e9_kg": 31.89,
+            "O2_\u00e9mis_kg": 24.51
+        },
+        {
+            "ann\u00e9e": 223,
+            "CO2_absorb\u00e9_kg": 20.96,
+            "O2_\u00e9mis_kg": 14.13
+        },
+        {
+            "ann\u00e9e": 224,
+            "CO2_absorb\u00e9_kg": 32.88,
+            "O2_\u00e9mis_kg": 16.82
+        },
+        {
+            "ann\u00e9e": 225,
+            "CO2_absorb\u00e9_kg": 37.48,
+            "O2_\u00e9mis_kg": 18.32
+        },
+        {
+            "ann\u00e9e": 226,
+            "CO2_absorb\u00e9_kg": 36.14,
+            "O2_\u00e9mis_kg": 14.42
+        },
+        {
+            "ann\u00e9e": 227,
+            "CO2_absorb\u00e9_kg": 38.27,
+            "O2_\u00e9mis_kg": 21.02
+        },
+        {
+            "ann\u00e9e": 228,
+            "CO2_absorb\u00e9_kg": 37.56,
+            "O2_\u00e9mis_kg": 14.31
+        },
+        {
+            "ann\u00e9e": 229,
+            "CO2_absorb\u00e9_kg": 23.4,
+            "O2_\u00e9mis_kg": 22.24
+        },
+        {
+            "ann\u00e9e": 230,
+            "CO2_absorb\u00e9_kg": 22.06,
+            "O2_\u00e9mis_kg": 12.67
+        },
+        {
+            "ann\u00e9e": 231,
+            "CO2_absorb\u00e9_kg": 39.91,
+            "O2_\u00e9mis_kg": 19.8
+        },
+        {
+            "ann\u00e9e": 232,
+            "CO2_absorb\u00e9_kg": 20.04,
+            "O2_\u00e9mis_kg": 17.01
+        },
+        {
+            "ann\u00e9e": 233,
+            "CO2_absorb\u00e9_kg": 35.98,
+            "O2_\u00e9mis_kg": 18.08
+        },
+        {
+            "ann\u00e9e": 234,
+            "CO2_absorb\u00e9_kg": 24.79,
+            "O2_\u00e9mis_kg": 24.15
+        },
+        {
+            "ann\u00e9e": 235,
+            "CO2_absorb\u00e9_kg": 32.85,
+            "O2_\u00e9mis_kg": 12.07
+        },
+        {
+            "ann\u00e9e": 236,
+            "CO2_absorb\u00e9_kg": 27.8,
+            "O2_\u00e9mis_kg": 17.92
+        },
+        {
+            "ann\u00e9e": 237,
+            "CO2_absorb\u00e9_kg": 33.85,
+            "O2_\u00e9mis_kg": 20.52
+        },
+        {
+            "ann\u00e9e": 238,
+            "CO2_absorb\u00e9_kg": 24.12,
+            "O2_\u00e9mis_kg": 21.0
+        },
+        {
+            "ann\u00e9e": 239,
+            "CO2_absorb\u00e9_kg": 28.9,
+            "O2_\u00e9mis_kg": 16.03
+        },
+        {
+            "ann\u00e9e": 240,
+            "CO2_absorb\u00e9_kg": 24.78,
+            "O2_\u00e9mis_kg": 21.59
+        },
+        {
+            "ann\u00e9e": 241,
+            "CO2_absorb\u00e9_kg": 22.93,
+            "O2_\u00e9mis_kg": 22.75
+        },
+        {
+            "ann\u00e9e": 242,
+            "CO2_absorb\u00e9_kg": 20.58,
+            "O2_\u00e9mis_kg": 22.92
+        },
+        {
+            "ann\u00e9e": 243,
+            "CO2_absorb\u00e9_kg": 36.21,
+            "O2_\u00e9mis_kg": 16.99
+        },
+        {
+            "ann\u00e9e": 244,
+            "CO2_absorb\u00e9_kg": 28.04,
+            "O2_\u00e9mis_kg": 23.28
+        },
+        {
+            "ann\u00e9e": 245,
+            "CO2_absorb\u00e9_kg": 20.16,
+            "O2_\u00e9mis_kg": 13.45
+        },
+        {
+            "ann\u00e9e": 246,
+            "CO2_absorb\u00e9_kg": 32.61,
+            "O2_\u00e9mis_kg": 21.31
+        },
+        {
+            "ann\u00e9e": 247,
+            "CO2_absorb\u00e9_kg": 24.17,
+            "O2_\u00e9mis_kg": 21.37
+        },
+        {
+            "ann\u00e9e": 248,
+            "CO2_absorb\u00e9_kg": 24.04,
+            "O2_\u00e9mis_kg": 16.34
+        },
+        {
+            "ann\u00e9e": 249,
+            "CO2_absorb\u00e9_kg": 31.23,
+            "O2_\u00e9mis_kg": 24.59
+        },
+        {
+            "ann\u00e9e": 250,
+            "CO2_absorb\u00e9_kg": 22.68,
+            "O2_\u00e9mis_kg": 22.67
+        },
+        {
+            "ann\u00e9e": 251,
+            "CO2_absorb\u00e9_kg": 28.69,
+            "O2_\u00e9mis_kg": 17.3
+        },
+        {
+            "ann\u00e9e": 252,
+            "CO2_absorb\u00e9_kg": 38.21,
+            "O2_\u00e9mis_kg": 18.97
+        },
+        {
+            "ann\u00e9e": 253,
+            "CO2_absorb\u00e9_kg": 39.83,
+            "O2_\u00e9mis_kg": 18.3
+        },
+        {
+            "ann\u00e9e": 254,
+            "CO2_absorb\u00e9_kg": 28.61,
+            "O2_\u00e9mis_kg": 12.57
+        },
+        {
+            "ann\u00e9e": 255,
+            "CO2_absorb\u00e9_kg": 38.39,
+            "O2_\u00e9mis_kg": 20.3
+        },
+        {
+            "ann\u00e9e": 256,
+            "CO2_absorb\u00e9_kg": 28.24,
+            "O2_\u00e9mis_kg": 23.9
+        },
+        {
+            "ann\u00e9e": 257,
+            "CO2_absorb\u00e9_kg": 21.83,
+            "O2_\u00e9mis_kg": 23.68
+        },
+        {
+            "ann\u00e9e": 258,
+            "CO2_absorb\u00e9_kg": 20.7,
+            "O2_\u00e9mis_kg": 22.37
+        },
+        {
+            "ann\u00e9e": 259,
+            "CO2_absorb\u00e9_kg": 21.28,
+            "O2_\u00e9mis_kg": 17.87
+        },
+        {
+            "ann\u00e9e": 260,
+            "CO2_absorb\u00e9_kg": 31.77,
+            "O2_\u00e9mis_kg": 17.98
+        },
+        {
+            "ann\u00e9e": 261,
+            "CO2_absorb\u00e9_kg": 22.32,
+            "O2_\u00e9mis_kg": 21.67
+        },
+        {
+            "ann\u00e9e": 262,
+            "CO2_absorb\u00e9_kg": 20.14,
+            "O2_\u00e9mis_kg": 16.27
+        },
+        {
+            "ann\u00e9e": 263,
+            "CO2_absorb\u00e9_kg": 21.61,
+            "O2_\u00e9mis_kg": 12.42
+        },
+        {
+            "ann\u00e9e": 264,
+            "CO2_absorb\u00e9_kg": 21.43,
+            "O2_\u00e9mis_kg": 19.95
+        },
+        {
+            "ann\u00e9e": 265,
+            "CO2_absorb\u00e9_kg": 36.84,
+            "O2_\u00e9mis_kg": 16.69
+        },
+        {
+            "ann\u00e9e": 266,
+            "CO2_absorb\u00e9_kg": 28.51,
+            "O2_\u00e9mis_kg": 19.0
+        },
+        {
+            "ann\u00e9e": 267,
+            "CO2_absorb\u00e9_kg": 21.89,
+            "O2_\u00e9mis_kg": 20.68
+        },
+        {
+            "ann\u00e9e": 268,
+            "CO2_absorb\u00e9_kg": 32.3,
+            "O2_\u00e9mis_kg": 21.36
+        },
+        {
+            "ann\u00e9e": 269,
+            "CO2_absorb\u00e9_kg": 28.09,
+            "O2_\u00e9mis_kg": 19.09
+        },
+        {
+            "ann\u00e9e": 270,
+            "CO2_absorb\u00e9_kg": 37.38,
+            "O2_\u00e9mis_kg": 18.92
+        },
+        {
+            "ann\u00e9e": 271,
+            "CO2_absorb\u00e9_kg": 36.74,
+            "O2_\u00e9mis_kg": 24.03
+        },
+        {
+            "ann\u00e9e": 272,
+            "CO2_absorb\u00e9_kg": 20.18,
+            "O2_\u00e9mis_kg": 18.3
+        },
+        {
+            "ann\u00e9e": 273,
+            "CO2_absorb\u00e9_kg": 38.71,
+            "O2_\u00e9mis_kg": 24.07
+        },
+        {
+            "ann\u00e9e": 274,
+            "CO2_absorb\u00e9_kg": 30.05,
+            "O2_\u00e9mis_kg": 17.07
+        },
+        {
+            "ann\u00e9e": 275,
+            "CO2_absorb\u00e9_kg": 30.91,
+            "O2_\u00e9mis_kg": 20.97
+        },
+        {
+            "ann\u00e9e": 276,
+            "CO2_absorb\u00e9_kg": 29.59,
+            "O2_\u00e9mis_kg": 24.51
+        },
+        {
+            "ann\u00e9e": 277,
+            "CO2_absorb\u00e9_kg": 35.09,
+            "O2_\u00e9mis_kg": 18.71
+        },
+        {
+            "ann\u00e9e": 278,
+            "CO2_absorb\u00e9_kg": 24.47,
+            "O2_\u00e9mis_kg": 14.03
+        },
+        {
+            "ann\u00e9e": 279,
+            "CO2_absorb\u00e9_kg": 29.72,
+            "O2_\u00e9mis_kg": 24.86
+        },
+        {
+            "ann\u00e9e": 280,
+            "CO2_absorb\u00e9_kg": 39.0,
+            "O2_\u00e9mis_kg": 15.87
+        },
+        {
+            "ann\u00e9e": 281,
+            "CO2_absorb\u00e9_kg": 35.94,
+            "O2_\u00e9mis_kg": 24.05
+        },
+        {
+            "ann\u00e9e": 282,
+            "CO2_absorb\u00e9_kg": 22.17,
+            "O2_\u00e9mis_kg": 19.04
+        },
+        {
+            "ann\u00e9e": 283,
+            "CO2_absorb\u00e9_kg": 36.03,
+            "O2_\u00e9mis_kg": 22.54
+        },
+        {
+            "ann\u00e9e": 284,
+            "CO2_absorb\u00e9_kg": 30.36,
+            "O2_\u00e9mis_kg": 14.86
+        },
+        {
+            "ann\u00e9e": 285,
+            "CO2_absorb\u00e9_kg": 33.94,
+            "O2_\u00e9mis_kg": 20.24
+        },
+        {
+            "ann\u00e9e": 286,
+            "CO2_absorb\u00e9_kg": 22.33,
+            "O2_\u00e9mis_kg": 20.04
+        },
+        {
+            "ann\u00e9e": 287,
+            "CO2_absorb\u00e9_kg": 22.35,
+            "O2_\u00e9mis_kg": 24.7
+        },
+        {
+            "ann\u00e9e": 288,
+            "CO2_absorb\u00e9_kg": 20.77,
+            "O2_\u00e9mis_kg": 20.41
+        },
+        {
+            "ann\u00e9e": 289,
+            "CO2_absorb\u00e9_kg": 34.67,
+            "O2_\u00e9mis_kg": 23.33
+        },
+        {
+            "ann\u00e9e": 290,
+            "CO2_absorb\u00e9_kg": 31.01,
+            "O2_\u00e9mis_kg": 15.6
+        },
+        {
+            "ann\u00e9e": 291,
+            "CO2_absorb\u00e9_kg": 23.83,
+            "O2_\u00e9mis_kg": 21.06
+        },
+        {
+            "ann\u00e9e": 292,
+            "CO2_absorb\u00e9_kg": 25.43,
+            "O2_\u00e9mis_kg": 21.64
+        },
+        {
+            "ann\u00e9e": 293,
+            "CO2_absorb\u00e9_kg": 36.15,
+            "O2_\u00e9mis_kg": 23.6
+        },
+        {
+            "ann\u00e9e": 294,
+            "CO2_absorb\u00e9_kg": 35.35,
+            "O2_\u00e9mis_kg": 12.23
+        },
+        {
+            "ann\u00e9e": 295,
+            "CO2_absorb\u00e9_kg": 35.8,
+            "O2_\u00e9mis_kg": 17.08
+        },
+        {
+            "ann\u00e9e": 296,
+            "CO2_absorb\u00e9_kg": 31.0,
+            "O2_\u00e9mis_kg": 23.16
+        },
+        {
+            "ann\u00e9e": 297,
+            "CO2_absorb\u00e9_kg": 20.82,
+            "O2_\u00e9mis_kg": 20.31
+        },
+        {
+            "ann\u00e9e": 298,
+            "CO2_absorb\u00e9_kg": 26.0,
+            "O2_\u00e9mis_kg": 21.21
+        },
+        {
+            "ann\u00e9e": 299,
+            "CO2_absorb\u00e9_kg": 22.8,
+            "O2_\u00e9mis_kg": 15.28
+        },
+        {
+            "ann\u00e9e": 300,
+            "CO2_absorb\u00e9_kg": 37.25,
+            "O2_\u00e9mis_kg": 23.25
+        }
+    ]
+}
