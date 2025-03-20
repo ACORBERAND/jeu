@@ -29,16 +29,22 @@ document.addEventListener('DOMContentLoaded', async (event) => {
 
     const initialSize = 5;
     const maxSize = 30;
-    const growthDuration = 500; // 500 years
+    const growthDurationType1 = 500; // 500 years for type1
+    const growthDurationType2 = 120; // 120 years for type2
+    const growthDurationType3 = 500; // 500 years for type3
     const growthInterval = 10; // 10 milliseconds
-    const growthStep = (maxSize - initialSize) / (growthDuration * 1000 / 8.3 / growthInterval);
+    const growthStepType1 = (maxSize - initialSize) / (growthDurationType1 * 1000 / 8.3 / growthInterval);
+    const growthStepType2 = (maxSize - initialSize) / (growthDurationType2 * 1000 / 8.3 / growthInterval);
+    const growthStepType3 = (maxSize - initialSize) / (growthDurationType3 * 1000 / 8.3 / growthInterval);
 
     // Charger les données JSON
-    let cheneData;
+    let cheneData, bouleauData, sapinData;
     try {
         const response = await fetch('./arbres_co2_o2.json');
         const data = await response.json();
         cheneData = data.chene;
+        bouleauData = data.bouleau;
+        sapinData = data.sapin;
     } catch (error) {
         console.error('Erreur lors du chargement des données JSON:', error);
         return;
@@ -117,8 +123,9 @@ document.addEventListener('DOMContentLoaded', async (event) => {
 
         // Faire grandir l'arbre
         let growCount = 0;
+        const growthStep = treeType === 'type2' ? growthStepType2 : (treeType === 'type3' ? growthStepType3 : growthStepType1);
         const growInterval = setInterval(() => {
-            if (growCount < growthDuration * 1000 / 8.3 / growthInterval) {
+            if (growCount < (treeType === 'type2' ? growthDurationType2 : (treeType === 'type3' ? growthDurationType3 : growthDurationType1)) * 1000 / 8.3 / growthInterval) {
                 growTree(tree, growthStep);
                 growCount++;
             } else {
@@ -161,7 +168,7 @@ document.addEventListener('DOMContentLoaded', async (event) => {
         });
 
         // Ajouter l'arbre à la liste des arbres avec son âge initial
-        trees.push({ element: tree, age: 0 });
+        trees.push({ element: tree, age: 0, type: treeType });
         updateCO2O2Counter(); // Mettre à jour les compteurs après l'ajout d'un arbre
     }
 
@@ -261,14 +268,36 @@ document.addEventListener('DOMContentLoaded', async (event) => {
     }
 
     // Fonction pour obtenir la valeur de CO2 en fonction de l'âge de l'arbre
-    function getCO2Value(age) {
-        const yearData = cheneData.find(data => data.année === Math.floor(age));
+    function getCO2Value(age, type) {
+        let yearData;
+        switch (type) {
+            case 'type1':
+                yearData = cheneData.find(data => data.année === Math.floor(age));
+                break;
+            case 'type2':
+                yearData = bouleauData.find(data => data.année === Math.floor(age));
+                break;
+            case 'type3':
+                yearData = sapinData.find(data => data.année === Math.floor(age));
+                break;
+        }
         return yearData ? yearData.CO2_absorbé_kg : 0;
     }
 
     // Fonction pour obtenir la valeur d'O2 en fonction de l'âge de l'arbre
-    function getO2Value(age) {
-        const yearData = cheneData.find(data => data.année === Math.floor(age));
+    function getO2Value(age, type) {
+        let yearData;
+        switch (type) {
+            case 'type1':
+                yearData = cheneData.find(data => data.année === Math.floor(age));
+                break;
+            case 'type2':
+                yearData = bouleauData.find(data => data.année === Math.floor(age));
+                break;
+            case 'type3':
+                yearData = sapinData.find(data => data.année === Math.floor(age));
+                break;
+        }
         return yearData ? yearData.O2_émis_kg : 0;
     }
 
@@ -278,8 +307,8 @@ document.addEventListener('DOMContentLoaded', async (event) => {
         let totalO2 = 0;
         trees.forEach(tree => {
             if (!tree.isBrown) {
-                totalCO2 += getCO2Value(tree.age);
-                totalO2 += getO2Value(tree.age);
+                totalCO2 += getCO2Value(tree.age, tree.type);
+                totalO2 += getO2Value(tree.age, tree.type);
             }
         });
         document.getElementById('co2').innerText = `CO2 accumulé par an: ${totalCO2.toFixed(2)}kg`;
@@ -295,7 +324,7 @@ document.addEventListener('DOMContentLoaded', async (event) => {
             yearsElement.textContent = `Années écoulées: ${years.toFixed(2)}`;
             trees.forEach(tree => {
                 tree.age += 8.3; // Incrémenter l'âge de chaque arbre
-                const yearData = cheneData.find(data => data.année === Math.floor(tree.age));
+                const yearData = tree.type === 'type2' && tree.age >= 120 ? null : getYearData(tree.age, tree.type);
                 if (!yearData && tree && tree.parentElement && !tree.isBrown) {
                     tree.style.backgroundColor = 'brown';
                     tree.isBrown = true; // Marquer l'arbre comme marron
@@ -305,5 +334,22 @@ document.addEventListener('DOMContentLoaded', async (event) => {
             });
             updateCO2O2Counter();
         }, 1000); // Mettre à jour toutes les secondes
+    }
+
+    // Fonction pour obtenir les données de l'année en fonction de l'âge et du type d'arbre
+    function getYearData(age, type) {
+        let yearData;
+        switch (type) {
+            case 'type1':
+                yearData = cheneData.find(data => data.année === Math.floor(age));
+                break;
+            case 'type2':
+                yearData = bouleauData.find(data => data.année === Math.floor(age));
+                break;
+            case 'type3':
+                yearData = sapinData.find(data => data.année === Math.floor(age));
+                break;
+        }
+        return yearData;
     }
 });
