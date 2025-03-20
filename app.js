@@ -91,6 +91,7 @@ document.addEventListener('DOMContentLoaded', async (event) => {
                 if (selectedTreeType === 'type2') {
                     type3Button.style.display = 'block';
                 }
+                updateCO2O2Counter(); // Mettre à jour les compteurs après l'ajout d'un arbre
             } else {
                 alert("Vous n'avez pas assez de pièces pour acheter cet arbre.");
             }
@@ -122,22 +123,19 @@ document.addEventListener('DOMContentLoaded', async (event) => {
                 growCount++;
             } else {
                 clearInterval(growInterval);
-                tree.style.backgroundColor = 'brown';
-                tree.isBrown = true; // Marquer l'arbre comme marron
-                clearInterval(tree.coinInterval); // Arrêter l'intervalle qui ajoute des pièces
-
-                // Set a random time between 2 and 500 years to die
-                const deathTime = Math.random() * (500 - 2) + 2;
-                setTimeout(() => {
-                    tree.remove();
-                }, deathTime * 1000 / 8.3);
+                if (tree && tree.parentElement) {
+                    tree.style.backgroundColor = 'brown';
+                    tree.isBrown = true; // Marquer l'arbre comme marron
+                    clearInterval(tree.coinInterval); // Arrêter l'intervalle qui ajoute des pièces
+                    updateCO2O2Counter(); // Mettre à jour les compteurs après que l'arbre devient marron
+                }
             }
         }, growthInterval);
 
         checkCollisions(tree);
 
         const coinInterval = setInterval(() => {
-            if (!tree.isBrown) {
+            if (tree && tree.parentElement && !tree.isBrown) {
                 compteur++;
                 compteurElement.textContent = compteur;
                 updateButtonStates();
@@ -153,7 +151,9 @@ document.addEventListener('DOMContentLoaded', async (event) => {
                     addCoins(treeType);
                 }
                 tree.remove();
+                trees.splice(trees.indexOf(tree), 1); // Supprimer l'arbre de la liste
                 updateButtonStates();
+                updateCO2O2Counter(); // Mettre à jour les compteurs après la suppression de l'arbre
             } else {
                 tree.classList.toggle('selected');
             }
@@ -162,6 +162,7 @@ document.addEventListener('DOMContentLoaded', async (event) => {
 
         // Ajouter l'arbre à la liste des arbres avec son âge initial
         trees.push({ element: tree, age: 0 });
+        updateCO2O2Counter(); // Mettre à jour les compteurs après l'ajout d'un arbre
     }
 
     // Ajouter des pièces en fonction du type d'arbre détruit
@@ -202,6 +203,7 @@ document.addEventListener('DOMContentLoaded', async (event) => {
             if (otherTree !== tree && isColliding(tree, otherTree)) {
                 clearInterval(otherTree.coinInterval);
                 otherTree.remove();
+                updateCO2O2Counter(); // Mettre à jour les compteurs après la suppression de l'arbre
             }
         });
     }
@@ -275,8 +277,10 @@ document.addEventListener('DOMContentLoaded', async (event) => {
         let totalCO2 = 0;
         let totalO2 = 0;
         trees.forEach(tree => {
-            totalCO2 += getCO2Value(tree.age);
-            totalO2 += getO2Value(tree.age);
+            if (!tree.isBrown) {
+                totalCO2 += getCO2Value(tree.age);
+                totalO2 += getO2Value(tree.age);
+            }
         });
         document.getElementById('co2').innerText = `CO2 accumulé par an: ${totalCO2.toFixed(2)}kg`;
         document.getElementById('o2').innerText = `O2 émis par an: ${totalO2.toFixed(2)}kg`;
@@ -291,6 +295,13 @@ document.addEventListener('DOMContentLoaded', async (event) => {
             yearsElement.textContent = `Années écoulées: ${years.toFixed(2)}`;
             trees.forEach(tree => {
                 tree.age += 8.3; // Incrémenter l'âge de chaque arbre
+                const yearData = cheneData.find(data => data.année === Math.floor(tree.age));
+                if (!yearData && tree && tree.parentElement && !tree.isBrown) {
+                    tree.style.backgroundColor = 'brown';
+                    tree.isBrown = true; // Marquer l'arbre comme marron
+                    clearInterval(tree.coinInterval); // Arrêter l'intervalle qui ajoute des pièces
+                    updateCO2O2Counter(); // Mettre à jour les compteurs après que l'arbre devient marron
+                }
             });
             updateCO2O2Counter();
         }, 1000); // Mettre à jour toutes les secondes
