@@ -237,6 +237,22 @@ document.addEventListener('DOMContentLoaded', (event) => {
         forestGuard.style.top = `${targetY}px`;
     }
 
+    function updateGuardVision(detectedTrees) {
+        const visionList = document.getElementById('detected-trees-list');
+        visionList.innerHTML = "";
+    
+        if (Object.keys(detectedTrees).length === 0) {
+            visionList.innerHTML = "<li>Aucun arbre détecté</li>";
+            return;
+        }
+    
+        for (const [color, count] of Object.entries(detectedTrees)) {
+            const listItem = document.createElement('li');
+            listItem.textContent = `${count} arbre(s) ${color}`;
+            visionList.appendChild(listItem);
+        }
+    }
+
 
 // Vérification des arbres proches du garde forestier
 function checkNearbyTrees() {
