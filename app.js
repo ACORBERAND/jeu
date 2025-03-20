@@ -65,6 +65,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
     const treeTypeButtons = document.querySelectorAll('.treeTypeButton');
     const type2Button = document.getElementById('type2Button');
     const type3Button = document.getElementById('type3Button');
+
+
+    
     const time = 3000;
     let treeCount = 0;
     let removeMode = false;
@@ -85,10 +88,195 @@ document.addEventListener('DOMContentLoaded', (event) => {
     const growthInterval = 10; // 10 milliseconds
     const growthStep = (maxSize - initialSize) / (growthDuration * 1000 / 8.3 / growthInterval);
 
+
+
+// === GESTION DU PYROMANE ===
+
+    // Probabilité d'apparition du pyromane
+    const pyromaneSpawnChance = 0.05; // 5% de chance d'apparition
+    let pyromane = null;
+    let burnedTreeLocations = []; // Stocke les positions des arbres brûlés
+
+    setInterval(() => {
+        if (!pyromane && Math.random() < pyromaneSpawnChance) {
+            spawnPyromane();
+        }
+    }, 10000); // Vérifie toutes les 10 secondes
+
+    function spawnPyromane() {
+        pyromane = document.createElement('div');
+        pyromane.className = 'pyromane';
+
+        const conteneurRect = content.getBoundingClientRect();
+        pyromane.style.left = `${Math.random() * (conteneurRect.width - 20)}px`;
+        pyromane.style.top = `${Math.random() * (conteneurRect.height - 20)}px`;
+
+        content.appendChild(pyromane);
+        movePyromane();
+    }
+
+    function movePyromane() {
+        if (!pyromane) return;
+
+        const trees = document.querySelectorAll('.tree');
+        if (trees.length === 0) {
+            removePyromane();
+            return;
+        }
+
+        let closestTree = null;
+        let closestDistance = Infinity;
+        const pyroRect = pyromane.getBoundingClientRect();
+
+        trees.forEach(tree => {
+            const treeRect = tree.getBoundingClientRect();
+            const distance = Math.sqrt(
+                Math.pow(treeRect.left - pyroRect.left, 2) +
+                Math.pow(treeRect.top - pyroRect.top, 2)
+            );
+
+            if (distance < closestDistance) {
+                closestDistance = distance;
+                closestTree = tree;
+            }
+        });
+
+        if (!closestTree) return;
+
+        pyromane.style.left = `${closestTree.style.left}`;
+        pyromane.style.top = `${closestTree.style.top}`;
+
+        setTimeout(() => {
+            if (pyromane && closestTree) {
+                burnedTreeLocations.push({
+                    left: closestTree.style.left,
+                    top: closestTree.style.top
+                });
+                closestTree.remove();
+                movePyromane();
+            }
+        }, 5000);
+    }
+
+    function removePyromane() {
+        if (pyromane) {
+            pyromane.remove();
+            pyromane = null;
+            burnedTreeLocations = []; // On vide la liste des arbres brûlés lorsque le pyromane disparaît
+        }
+    }
+
+    // === Garde forestier ===
+    const forestGuardButton = document.getElementById('forestGuardButton');
+    const forestGuardPrice = 50;
+    let forestGuard = null;
+
+    forestGuardButton.addEventListener('click', function () {
+        if (compteur >= forestGuardPrice && !forestGuard) {
+            compteur -= forestGuardPrice;
+            compteurElement.textContent = compteur;
+            createForestGuard();
+            forestGuardButton.classList.add('disabled');
+            forestGuardButton.textContent = "Garde forestier engagé";
+        } else {
+            alert("Vous n'avez pas assez de pièces ou un garde est déjà présent.");
+        }
+    });
+
+    function createForestGuard() {
+        forestGuard = document.createElement('div');
+        forestGuard.className = 'forest-guard';
+
+        const detectionRadius = document.createElement('div');
+        detectionRadius.className = 'detection-radius';
+        forestGuard.appendChild(detectionRadius);
+
+        forestGuard.style.left = '50%';
+        forestGuard.style.top = '50%';
+
+        content.appendChild(forestGuard);
+
+        setInterval(checkForPyromane, 500);
+        setInterval(checkNearbyTrees, 500);
+        setInterval(moveForestGuard, 4000);
+    }
+
+    function checkForPyromane() {
+        if (!forestGuard || !pyromane) return;
+
+        const guardRect = forestGuard.getBoundingClientRect();
+        const pyroRect = pyromane.getBoundingClientRect();
+
+        const distance = Math.sqrt(
+            Math.pow(pyroRect.left - guardRect.left, 2) +
+            Math.pow(pyroRect.top - guardRect.top, 2)
+        );
+
+        if (distance < 40) {
+            removePyromane();
+            console.log("Le garde forestier a éliminé le pyromane !");
+        }
+    }
+
+    function moveForestGuard() {
+        if (!forestGuard) return;
+
+        const conteneurRect = content.getBoundingClientRect();
+        let targetX, targetY;
+
+        if (burnedTreeLocations.length > 0 && Math.random() < 0.7) {
+            const target = burnedTreeLocations[Math.floor(Math.random() * burnedTreeLocations.length)];
+            targetX = parseFloat(target.left);
+            targetY = parseFloat(target.top);
+        } else {
+            targetX = Math.random() * (conteneurRect.width - 20);
+            targetY = Math.random() * (conteneurRect.height - 20);
+        }
+
+        forestGuard.style.left = `${targetX}px`;
+        forestGuard.style.top = `${targetY}px`;
+    }
+
+
+// Vérification des arbres proches du garde forestier
+function checkNearbyTrees() {
+    if (!forestGuard) return;
+
+    const guardRect = forestGuard.getBoundingClientRect();
+    const trees = document.querySelectorAll('.tree');
+    const detectedTrees = {};
+
+    trees.forEach(tree => {
+        const treeRect = tree.getBoundingClientRect();
+        const distance = Math.sqrt(
+            Math.pow(treeRect.left - guardRect.left, 2) +
+            Math.pow(treeRect.top - guardRect.top, 2)
+        );
+
+        if (distance < 40) { // Rayon de détection ajusté (80px de diamètre = 40px de rayon)
+            const treeType = tree.classList.contains('type1') ? "Vert" :
+                             tree.classList.contains('type2') ? "Rouge" :
+                             tree.classList.contains('type3') ? "Bleu" : "Inconnu";
+
+            detectedTrees[treeType] = (detectedTrees[treeType] || 0) + 1;
+        }
+    });
+
+    updateGuardVision(detectedTrees);
+}
+
+
+
+
+
+
     // Initialiser les prix des boutons au chargement de la page
     updateAllButtonTexts();
     updateButtonStates();
 
+
+
+    
     // Activer le mode de suppression lorsqu'on clique sur le bouton
     removeTreesButton.addEventListener('click', function () {
         removeMode = true;
