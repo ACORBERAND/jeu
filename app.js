@@ -1,8 +1,3 @@
-// import * as Foret from './foret.js';
-
-// console.log("main=", Foret.nom);
-// Foret.direBonjour("foret");
-
 document.addEventListener('DOMContentLoaded', async (event) => {
     let compteur = 0;
     let co2Accumule = 0;
@@ -20,6 +15,7 @@ document.addEventListener('DOMContentLoaded', async (event) => {
     let timerStarted = false;
     let firstType1Tree = true;
     const trees = [];
+    const points = [];
 
     const treePrices = {
         type1: 0,
@@ -324,7 +320,7 @@ document.addEventListener('DOMContentLoaded', async (event) => {
             yearsElement.textContent = `Années écoulées: ${years.toFixed(2)}`;
             trees.forEach(tree => {
                 tree.age += 8.3; // Incrémenter l'âge de chaque arbre
-                const yearData = tree.type === 'type2' && tree.age >= 120 ? null : getYearData(tree.age, tree.type);
+                const yearData = (tree.type === 'type2' && tree.age >= 120) || (tree.type === 'type3' && tree.age >= 500) ? null : getYearData(tree.age, tree.type);
                 if (!yearData && tree && tree.parentElement && !tree.isBrown) {
                     tree.style.backgroundColor = 'brown';
                     tree.isBrown = true; // Marquer l'arbre comme marron
@@ -352,4 +348,85 @@ document.addEventListener('DOMContentLoaded', async (event) => {
         }
         return yearData;
     }
+
+    // Fonction pour créer et déplacer le point mobile
+    function createMovingPoint() {
+        if (points.length >= 2) return; // Limiter à deux points maximum
+
+        const point = document.createElement('div');
+        point.className = 'moving-point';
+        point.style.position = 'absolute';
+        point.style.width = '30px';
+        point.style.height = '30px';
+        point.style.backgroundColor = 'red';
+        point.style.borderRadius = '50%';
+
+        // Position initiale aléatoire sur le bord du conteneur
+        let pointX, pointY;
+        const side = Math.floor(Math.random() * 4); // 0: top, 1: right, 2: bottom, 3: left
+        switch (side) {
+            case 0: // top
+                pointX = Math.random() * (content.clientWidth - 30);
+                pointY = 0;
+                break;
+            case 1: // right
+                pointX = content.clientWidth - 30;
+                pointY = Math.random() * (content.clientHeight - 30);
+                break;
+            case 2: // bottom
+                pointX = Math.random() * (content.clientWidth - 30);
+                pointY = content.clientHeight - 30;
+                break;
+            case 3: // left
+                pointX = 0;
+                pointY = Math.random() * (content.clientHeight - 30);
+                break;
+        }
+
+        point.style.left = `${pointX}px`;
+        point.style.top = `${pointY}px`;
+
+        content.appendChild(point);
+        points.push(point);
+
+        // Déplacer le point
+        const moveInterval = setInterval(() => {
+            const dx = (Math.random() - 0.5) * 20; // Augmenter la valeur de déplacement
+            const dy = (Math.random() - 0.5) * 20; // Augmenter la valeur de déplacement
+            let newLeft = parseFloat(point.style.left) + dx;
+            let newTop = parseFloat(point.style.top) + dy;
+
+            // Garder le point dans les limites du conteneur
+            if (newLeft < 0) newLeft = 0;
+            if (newLeft > content.clientWidth - 30) newLeft = content.clientWidth - 30;
+            if (newTop < 0) newTop = 0;
+            if (newTop > content.clientHeight - 30) newTop = content.clientHeight - 30;
+
+            point.style.left = `${newLeft}px`;
+            point.style.top = `${newTop}px`;
+
+            // Vérifier les collisions avec les arbres
+            trees.forEach(tree => {
+                if (isColliding(point, tree.element)) {
+                    clearInterval(tree.coinInterval);
+                    tree.element.remove();
+                    trees.splice(trees.indexOf(tree), 1); // Supprimer l'arbre de la liste
+                    updateCO2O2Counter(); // Mettre à jour les compteurs après la suppression de l'arbre
+                    clearInterval(moveInterval);
+                    point.remove(); // Supprimer le point après la collision
+                    points.splice(points.indexOf(point), 1); // Supprimer le point de la liste
+                }
+            });
+        }, 100);
+
+        // // Supprimer le point après 10 secondes
+        // setTimeout(() => {
+        //     clearInterval(moveInterval);
+        //     point.remove();
+        //     points.splice(points.indexOf(point), 1); // Supprimer le point de la liste
+        // }, 10000);
+    }
+
+    // Créer un point mobile toutes les 30 secondes
+    setInterval(createMovingPoint, 30000);
 });
