@@ -352,78 +352,205 @@ document.addEventListener('DOMContentLoaded', async (event) => {
     }
 
     // Fonction pour créer et déplacer le point mobile
-    function createMovingPoint() {
-        if (points.length >= 2) return; // Limiter à deux points maximum
+    
 
-        const point = document.createElement('div');
-        point.className = 'moving-point';
-        point.style.position = 'absolute';
-        point.style.width = '30px';
-        point.style.height = '30px';
-        point.style.backgroundColor = 'red';
-        point.style.borderRadius = '50%';
+// const nom =  "forest"
+// function direBonjour(nom) {
+//     console.log(`Bonjour ${nom}`);
+// }
+// console.log(nom);
 
-        // Position initiale aléatoire sur le bord du conteneur
-        let pointX, pointY;
-        const side = Math.floor(Math.random() * 4); // 0: top, 1: right, 2: bottom, 3: left
-        switch (side) {
-            case 0: // top
-                pointX = Math.random() * (content.clientWidth - 30);
-                pointY = 0;
-                break;
-            case 1: // right
-                pointX = content.clientWidth - 30;
-                pointY = Math.random() * (content.clientHeight - 30);
-                break;
-            case 2: // bottom
-                pointX = Math.random() * (content.clientWidth - 30);
-                pointY = content.clientHeight - 30;
-                break;
-            case 3: // left
-                pointX = 0;
-                pointY = Math.random() * (content.clientHeight - 30);
-                break;
+// export { nom, direBonjour }; // exporte la variable nom
+
+
+
+ const pyromaneSpawnChance = 0.05; // 5% de chance d'apparition
+    let pyromane = null;
+    let burnedTreeLocations = []; // Stocke les positions des arbres brûlés
+
+    setInterval(() => {
+        if (!pyromane && Math.random() < pyromaneSpawnChance) {
+            spawnPyromane();
         }
+    }, 10000); // Vérifie toutes les 10 secondes
 
-        point.style.left = `${pointX}px`;
-        point.style.top = `${pointY}px`;
+    function spawnPyromane() {
+        pyromane = document.createElement('div');
+        pyromane.className = 'pyromane';
 
-        content.appendChild(point);
-        points.push(point);
+        const conteneurRect = content.getBoundingClientRect();
+        pyromane.style.left = `${Math.random() * (conteneurRect.width - 20)}px`;
+        pyromane.style.top = `${Math.random() * (conteneurRect.height - 20)}px`;
 
-        // Déplacer le point
-        const moveInterval = setInterval(() => {
-            const dx = (Math.random() - 0.5) * 20; // Augmenter la valeur de déplacement
-            const dy = (Math.random() - 0.5) * 20; // Augmenter la valeur de déplacement
-            let newLeft = parseFloat(point.style.left) + dx;
-            let newTop = parseFloat(point.style.top) + dy;
-
-            // Garder le point dans les limites du conteneur
-            if (newLeft < 0) newLeft = 0;
-            if (newLeft > content.clientWidth - 30) newLeft = content.clientWidth - 30;
-            if (newTop < 0) newTop = 0;
-            if (newTop > content.clientHeight - 30) newTop = content.clientHeight - 30;
-
-            point.style.left = `${newLeft}px`;
-            point.style.top = `${newTop}px`;
-
-            // Vérifier les collisions avec les arbres
-            trees.forEach(tree => {
-                if (isColliding(point, tree.element)) {
-                    clearInterval(tree.coinInterval);
-                    tree.element.remove();
-                    trees.splice(trees.indexOf(tree), 1); // Supprimer l'arbre de la liste
-                    updateCO2O2Counter(); // Mettre à jour les compteurs après la suppression de l'arbre
-                    clearInterval(moveInterval);
-                    point.remove(); // Supprimer le point après la collision
-                    points.splice(points.indexOf(point), 1); // Supprimer le point de la liste
-                }
-            });
-        }, 100);
+        content.appendChild(pyromane);
+        movePyromane();
     }
 
-    // Créer un point mobile toutes les 30 secondes
-    setInterval(createMovingPoint, 120000);
-});
+    function movePyromane() {
+        if (!pyromane) return;
 
+        const trees = document.querySelectorAll('.tree');
+        if (trees.length === 0) {
+            removePyromane();
+            return;
+        }
+
+        let closestTree = null;
+        let closestDistance = Infinity;
+        const pyroRect = pyromane.getBoundingClientRect();
+
+        trees.forEach(tree => {
+            const treeRect = tree.getBoundingClientRect();
+            const distance = Math.sqrt(
+                Math.pow(treeRect.left - pyroRect.left, 2) +
+                Math.pow(treeRect.top - pyroRect.top, 2)
+            );
+
+            if (distance < closestDistance) {
+                closestDistance = distance;
+                closestTree = tree;
+            }
+        });
+
+        if (!closestTree) return;
+
+        pyromane.style.left = `${closestTree.style.left}`;
+        pyromane.style.top = `${closestTree.style.top}`;
+
+        setTimeout(() => {
+            if (pyromane && closestTree) {
+                burnedTreeLocations.push({
+                    left: closestTree.style.left,
+                    top: closestTree.style.top
+                });
+                closestTree.remove();
+                movePyromane();
+            }
+        }, 5000);
+    }
+
+    function removePyromane() {
+        if (pyromane) {
+            pyromane.remove();
+            pyromane = null;
+            burnedTreeLocations = []; // On vide la liste des arbres brûlés lorsque le pyromane disparaît
+        }
+    }
+
+
+const forestGuardButton = document.getElementById('forestGuardButton');
+    const forestGuardPrice = 50;
+    let forestGuard = null;
+
+    forestGuardButton.addEventListener('click', function () {
+        if (compteur >= forestGuardPrice && !forestGuard) {
+            compteur -= forestGuardPrice;
+            compteurElement.textContent = compteur;
+            createForestGuard();
+            forestGuardButton.classList.add('disabled');
+            forestGuardButton.textContent = "Garde forestier engagé";
+        } else {
+            alert("Vous n'avez pas assez de pièces ou un garde est déjà présent.");
+        }
+    });
+
+    function createForestGuard() {
+        forestGuard = document.createElement('div');
+        forestGuard.className = 'forest-guard';
+
+        const detectionRadius = document.createElement('div');
+        detectionRadius.className = 'detection-radius';
+        forestGuard.appendChild(detectionRadius);
+
+        forestGuard.style.left = '50%';
+        forestGuard.style.top = '50%';
+
+        content.appendChild(forestGuard);
+
+        setInterval(checkForPyromane, 500);
+        setInterval(checkNearbyTrees, 500);
+        setInterval(moveForestGuard, 4000);
+    }
+
+    function checkForPyromane() {
+        if (!forestGuard || !pyromane) return;
+
+        const guardRect = forestGuard.getBoundingClientRect();
+        const pyroRect = pyromane.getBoundingClientRect();
+
+        const distance = Math.sqrt(
+            Math.pow(pyroRect.left - guardRect.left, 2) +
+            Math.pow(pyroRect.top - guardRect.top, 2)
+        );
+
+        if (distance < 40) {
+            removePyromane();
+            console.log("Le garde forestier a éliminé le pyromane !");
+        }
+    }
+
+    function moveForestGuard() {
+        if (!forestGuard) return;
+
+        const conteneurRect = content.getBoundingClientRect();
+        let targetX, targetY;
+
+        if (burnedTreeLocations.length > 0 && Math.random() < 0.7) {
+            const target = burnedTreeLocations[Math.floor(Math.random() * burnedTreeLocations.length)];
+            targetX = parseFloat(target.left);
+            targetY = parseFloat(target.top);
+        } else {
+            targetX = Math.random() * (conteneurRect.width - 20);
+            targetY = Math.random() * (conteneurRect.height - 20);
+        }
+
+        forestGuard.style.left = `${targetX}px`;
+        forestGuard.style.top = `${targetY}px`;
+    }
+
+    function updateGuardVision(detectedTrees) {
+        const visionList = document.getElementById('detected-trees-list');
+        visionList.innerHTML = "";
+    
+        if (Object.keys(detectedTrees).length === 0) {
+            visionList.innerHTML = "<li>Aucun arbre détecté</li>";
+            return;
+        }
+    
+        for (const [color, count] of Object.entries(detectedTrees)) {
+            const listItem = document.createElement('li');
+            listItem.textContent = `${count} arbre(s) ${color}`;
+            visionList.appendChild(listItem);
+        }
+    }
+
+
+// Vérification des arbres proches du garde forestier
+function checkNearbyTrees() {
+    if (!forestGuard) return;
+
+    const guardRect = forestGuard.getBoundingClientRect();
+    const trees = document.querySelectorAll('.tree');
+    const detectedTrees = {};
+
+    trees.forEach(tree => {
+        const treeRect = tree.getBoundingClientRect();
+        const distance = Math.sqrt(
+            Math.pow(treeRect.left - guardRect.left, 2) +
+            Math.pow(treeRect.top - guardRect.top, 2)
+        );
+
+        if (distance < 40) { // Rayon de détection ajusté (80px de diamètre = 40px de rayon)
+            const treeType = tree.classList.contains('type1') ? "Vert" :
+                             tree.classList.contains('type2') ? "Rouge" :
+                             tree.classList.contains('type3') ? "Bleu" : "Inconnu";
+
+            detectedTrees[treeType] = (detectedTrees[treeType] || 0) + 1;
+        }
+    });
+
+    updateGuardVision(detectedTrees);
+};
+
+});
 
