@@ -309,6 +309,8 @@ document.addEventListener('DOMContentLoaded', async (event) => {
         });
         document.getElementById('co2').innerText = `CO2 accumulé par an: ${totalCO2.toFixed(2)}kg`;
         document.getElementById('o2').innerText = `O2 émis par an: ${totalO2.toFixed(2)}kg`;
+        window.co2Accumule = totalCO2;
+        window.o2Accumule = totalO2;
     }
 
     // Fonction pour démarrer le timer des années
@@ -418,15 +420,10 @@ document.addEventListener('DOMContentLoaded', async (event) => {
                 }
             });
         }, 100);
-
-        // // Supprimer le point après 10 secondes
-        // setTimeout(() => {
-        //     clearInterval(moveInterval);
-        //     point.remove();
-        //     points.splice(points.indexOf(point), 1); // Supprimer le point de la liste
-        // }, 10000);
     }
 
     // Créer un point mobile toutes les 30 secondes
-    setInterval(createMovingPoint, 30000);
+    setInterval(createMovingPoint, 120000);
 });
+
+
