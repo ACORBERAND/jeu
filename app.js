@@ -364,7 +364,7 @@ document.addEventListener('DOMContentLoaded', async (event) => {
 
 
 
- const pyromaneSpawnChance = 0.05; // 5% de chance d'apparition
+ const pyromaneSpawnChance = 0.45; // 5% de chance d'apparition
     let pyromane = null;
     let burnedTreeLocations = []; // Stocke les positions des arbres brûlés
 
